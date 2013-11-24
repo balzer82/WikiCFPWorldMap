@@ -3,7 +3,7 @@
 
 # <headingcell level=1>
 
-# iEEE Conference World Map
+# WikiCFP Conferences World Map
 
 # <codecell>
 
@@ -17,7 +17,7 @@ import simplekml
 
 # <headingcell level=2>
 
-# Convert Addressto LatLon
+# Convert Address to LatLon
 
 # <codecell>
 
@@ -79,9 +79,6 @@ def address2coord(addr):
 
 # Crawl the conference search
 
-# <codecell>
-
-
 # <headingcell level=2>
 
 # Extract the Data
@@ -130,27 +127,31 @@ while moredata and site < 10:
     
                 # Tabelle durchgehen
                 if idx==0:
+                    # Conference Name
                     confname.append(infos.a.text.strip())
                     confurl.append('http://www.wikicfp.com' + infos.a['href'])
     
                 elif idx==1:
+                    # Ausführlicher Name
                     confdesc.append(infos.text.strip())
                 
                 elif idx==2:
+                    # Datum
                     confdate.append(infos.text.strip())
                     
                 elif idx==3:
-                    
+                    # Ort
                     location = infos.text.strip()
         
                     print location
                     confloc.append(location) 
-                    
+                    # Geoencoding
                     lat,lon = address2coord(location)
                     conflat.append(float(lat))
                     conflon.append(float(lon))
                 
                 elif idx==4:
+                    # Call For Papers Deadline
                     cfpdate.append(infos.text.strip())
                     
                 else:
@@ -162,15 +163,13 @@ while moredata and site < 10:
                 if idx==5:
                     idx=0
         
-        
+
 confs = zip(confname,confdate,conflat,conflon,confloc,confurl,confdesc,cfpdate)
 print('Done.')
+
 # Print the Table           
 #for i in range(len(confname)):
 #    print('%s findet am %s in %s statt.\n' % (confname[i], confdate[i], confloc[i]))
-
-# <codecell>
-
 
 # <headingcell level=2>
 
