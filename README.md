@@ -6,26 +6,26 @@ Crawling the WikiCFP and displays a map
 
 You can use the [WikiCFP Conference Search](http://www.wikicfp.com/cfp/allcfp), but it is a list. I think it is much more interesting to see a map, where conferences happening.
 
-![iEEE Conference World Map](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-Worldmap.png?raw=true)
+![WikiCFP Conference World Map](https://raw.github.com/balzer82/WikiCFPWorldMap/master/WikiCFP-Conferences-2014-Worldmap.png)
 
 
 ## How to use it?
 
-``` python iEEECrawler.py ```
+``` python WikiCFPCrawler.py ```
 
 Probably it is better to use the .ipynb (iPython Notebook), because I am using it and probably I forgot to update the .py
 
 ## What is it doin'?
 
-1. search iEEE Conference Database
+1. search WikiCFP Wiki
 2. extract all infos from website
 3. ask Google for location of the adress (Geoencoding)
-4. save [.kml file (for Google Earth)](https://raw.github.com/balzer82/iEEEConferenceWorldMap/master/iEEE-Conferences.kml)
+4. save [.kml file (for Google Earth)](https://raw.github.com/balzer82/WikiCFPWorldMap/master/WikiCFP-Conferences.kml)
 5. create World map, US Map and Europe Map
 
-![IEEE European Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-Europe.png?raw=true)
+![WikiCFP European Conferences](https://github.com/balzer82/WikiCFPWorldMap/blob/master/WikiCFP-Conferences-2014-Europe.png?raw=true)
 
-![IEEE US Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-USA.png?raw=true)
+![WikiCFP US Conferences](https://github.com/balzer82/WikiCFPWorldMap/blob/master/WikiCFP-Conferences-2014-USA.png?raw=true)
 
 
 ## Dependencies
