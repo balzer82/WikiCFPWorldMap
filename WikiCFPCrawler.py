@@ -26,7 +26,7 @@ def address2coord(addr):
     result = None
     address = addr
     
-    if 'TBD' in addr:
+    if 'TBD' in addr or 'N/A' in addr:
         print 'No location determined yet.'
         return (u'0.0', u'0.0')
     
@@ -291,9 +291,6 @@ plt.savefig('WikiCFP-Conferences-2014-USA.png', bbox_inches='tight', dpi=150)
 
 #plt.show()
 plt.close()
-
-# <codecell>
-
 
 # <codecell>
 
