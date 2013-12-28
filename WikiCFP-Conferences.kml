@@ -2,2395 +2,2369 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="feat_1">
         <Placemark id="feat_2">
-            <name>CGiV 2014</name>
-            <description>11th International Conference Computer Graphics, Imaging and Visualization
-from Aug 6, 2014 - Aug 8, 2014
-in NTU - Singapore.
-
-CFP deadline: Mar 15, 2014 (Feb 1, 2014)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34036&amp;copyownerid=58052</description>
-            <Point id="geom_0">
-                <coordinates>103.6811502,1.3463053,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_3">
-            <name>IV 2014</name>
-            <description>18th International Conference Information Visualisation
-from Jul 15, 2014 - Jul 18, 2014
-in Paris  - France.
-
-CFP deadline: Feb 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34035&amp;copyownerid=58052</description>
-            <Point id="geom_1">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_4">
-            <name>CERE 2014</name>
-            <description>6th International Conference on Excellence in Research and Education 2014
-from May 8, 2014 - May 11, 2014
-in Indore, India.
-
-CFP deadline: Dec 15, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34034&amp;copyownerid=58043</description>
-            <Point id="geom_2">
-                <coordinates>75.8577258,22.7195687,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_5">
-            <name>DIGIMARCON 2014</name>
-            <description>DIGIMARCON 2014 - Digital Marketing Conference
-from Jun 23, 2014 - Jun 27, 2014
-in Miami, Town in Florida, United States.
-
-CFP deadline: Feb 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34032&amp;copyownerid=58032</description>
-            <Point id="geom_3">
-                <coordinates>-80.2264393,25.7889689,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_6">
-            <name>IIR 2014</name>
-            <description>5th Italian Information Retrieval Workshop
-from Jan 20, 2014 - Jan 21, 2014
-in Rome, Italy.
-
-CFP deadline: Nov 27, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34031&amp;copyownerid=58031</description>
-            <Point id="geom_4">
-                <coordinates>12.4825199,41.8929163,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_7">
-            <name>APWiMob 2014</name>
-            <description>Asia Pacific Conference on Wireless and Mobile 2014
-from Aug 28, 2014 - Aug 30, 2014
-in Bali.
-
-CFP deadline: Apr 26, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34027&amp;copyownerid=58029</description>
-            <Point id="geom_5">
-                <coordinates>115.188916,-8.4095178,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_8">
-            <name>PRICAI 2014</name>
-            <description>The 13th Pacific Rim International Conference on Artificial Intelligence
-from Dec 1, 2014 - Dec 5, 2014
-in Gold Coast, Queensland, Australia.
-
-CFP deadline: Jun 29, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34026&amp;copyownerid=5571</description>
-            <Point id="geom_6">
-                <coordinates>153.4256987,-28.0172605,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_9">
-            <name>UCAAT 2013</name>
-            <description>User Conference on Advanced Automatic Testing
-from Oct 22, 2013 - Oct 24, 2013
-in Paris.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34025&amp;copyownerid=41812</description>
-            <Point id="geom_7">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_10">
-            <name>iC4T 2014</name>
-            <description>First International Conference on Training and TÃ©lÃ©-Training Technology
-from Mar 20, 2014 - Mar 21, 2014
-in Mauritania.
-
-CFP deadline: Jan 25, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34024&amp;copyownerid=58012</description>
-            <Point id="geom_8">
-                <coordinates>-10.940835,21.00789,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_11">
-            <name>ICoN 2014</name>
-            <description>International Congress of Numanities
-from Jun 2, 2014 - Jun 7, 2014
-in Kaunas, Lithuania.
-
-CFP deadline: Jan 31, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34023&amp;copyownerid=57133</description>
-            <Point id="geom_9">
-                <coordinates>23.9035416,54.8984964,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_12">
-            <name>SS Distributed Intelligent Systems 2014</name>
-            <description>IEEE IES ISIE 2014 - Special Session on Distributed Intelligent Systems in Industrial Environments
-from Jun 1, 2014 - Jun 4, 2014
-in Istanbul - Turkey.
-
-CFP deadline: Dec 15, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34021&amp;copyownerid=47586</description>
-            <Point id="geom_10">
-                <coordinates>28.97696,41.00527,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_13">
-            <name>IDT 2014</name>
-            <description>6th International Conference on Intelligent Decision Technologies
-from Jun 18, 2014 - Jun 20, 2014
-in Chania, Crete, Greece.
-
-CFP deadline: Jan 27, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34019&amp;copyownerid=57950</description>
-            <Point id="geom_11">
-                <coordinates>24.0180367,35.5138298,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_14">
-            <name>ISMIR 2014</name>
-            <description>15th International Society for Music Information Retrieval Conference
-from Oct 27, 2014 - Oct 31, 2014
-in Taipei, Taiwan.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34018&amp;copyownerid=7920</description>
-            <Point id="geom_12">
-                <coordinates>121.5598345,25.091075,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_15">
-            <name>DAFx 2014</name>
-            <description>International Conference on Digital Audio Effects
-from Sep 1, 2014 - Sep 5, 2014
-in Erlangen, Germany.
-
-CFP deadline: Mar 14, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34017&amp;copyownerid=7920</description>
-            <Point id="geom_13">
-                <coordinates>11.0142675,49.5907169,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_16">
-            <name>CISSD 2014</name>
-            <description>WCCI 2014 Special Session on Computational Intelligence for Security, Surveillance and Defence (CISSD)
+            <name>FUZZ-IEEE  2014</name>
+            <description>Advances, Applications and practical implementations of Neuro-Fuzzy systems
 from Jul 6, 2014 - Jul 11, 2014
 in Beijing, China.
 
-CFP deadline: Dec 20, 2013
+CFP deadline: Jan 20, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34016&amp;copyownerid=57992</description>
-            <Point id="geom_14">
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34900&amp;copyownerid=38408</description>
+            <Point id="geom_0">
                 <coordinates>116.407526,39.90403,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_17">
-            <name>SUM  2014</name>
-            <description>SUM 2014 - Second Symposium on Urban Mining
-from May 19, 2014 - May 21, 2014
-in Bergamo, Old Monastery of St. Augustine.
+        <Placemark id="feat_3">
+            <name>WISC 2014</name>
+            <description>IEEE COMPSAC 2014 Workshop on Interoperability in Scientific Computing
+from Jul 22, 2014 - Jul 22, 2014
+in Vasteras, Sweden.
 
-CFP deadline: Nov 30, 2013
+CFP deadline: Mar 23, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34012&amp;copyownerid=35146</description>
-            <Point id="geom_15">
-                <coordinates>-81.3132083,29.8942639,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34898&amp;copyownerid=25499</description>
+            <Point id="geom_1">
+                <coordinates>16.5448091,59.6099005,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_18">
-            <name>CICM 2014</name>
-            <description>Conferences on Intelligent Computer Mathematics
-from Jul 7, 2014 - Jul 11, 2014
-in Coimbra, Portugal.
+        <Placemark id="feat_4">
+            <name>PAHI 2014</name>
+            <description>2nd European Workshop on Practical Aspects of Health Informatics (PAHI 2014)
+from May 19, 2014 - May 20, 2014
+in Trondheim, Norway.
 
-CFP deadline: Feb 28, 2014
+CFP deadline: Feb 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34011&amp;copyownerid=8655</description>
-            <Point id="geom_16">
-                <coordinates>-8.447156,40.2023788,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34897&amp;copyownerid=20969</description>
+            <Point id="geom_2">
+                <coordinates>10.3950528,63.4305149,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_19">
-            <name>CSNDSP 2014</name>
-            <description>9th IEEE/IET International Symposium on COMMUNICATION SYSTEMS, NETWORKS &amp; DIGITAL SIGNAL PROCESSING
-from Jul 23, 2014 - Jul 25, 2014
-in Manchester, UK.
+        <Placemark id="feat_5">
+            <name>FPGA DeCo 2014</name>
+            <description>FPGA Design Contest
+from Jun 9, 2013 - Jun 11, 2013
+in Sendai Miyagi Japan.
 
-CFP deadline: Feb 13, 2014
+CFP deadline: TBD
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34010&amp;copyownerid=57984</description>
-            <Point id="geom_17">
-                <coordinates>-2.2484851,53.479324,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34895&amp;copyownerid=18297</description>
+            <Point id="geom_3">
+                <coordinates>140.8693558,38.268215,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_20">
-            <name>C4Bio 2014</name>
-            <description>1st International Workshop on Cloud for Bio
-from May 26, 2014 - May 29, 2014
-in Chicago.
+        <Placemark id="feat_6">
+            <name>IRI-DIM 2014</name>
+            <description>The Third IEEE International Workshop on Data Integration and Mining
+from Aug 13, 2014 - Aug 15, 2014
+in San Francisco, USA.
+
+CFP deadline: Apr 4, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34890&amp;copyownerid=45844</description>
+            <Point id="geom_4">
+                <coordinates>-122.4194155,37.7749295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>ESÂ³LOD 2014</name>
+            <description>5th International Workshop on EMOTION, SOCIAL SIGNALS, SENTIMENT &amp; LINKED OPEN DATA
+from May 26, 2014 - May 27, 2014
+in Reykjavik, Iceland.
 
 CFP deadline: Feb 10, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34009&amp;copyownerid=32118</description>
-            <Point id="geom_18">
-                <coordinates>-87.6297982,41.8781136,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34889&amp;copyownerid=320</description>
+            <Point id="geom_5">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_21">
-            <name>BIR 2014</name>
-            <description>Bibliometric-enhanced Information Retrieval
-from Apr 13, 2014 - Apr 13, 2014
-in Amsterdam.
+        <Placemark id="feat_8">
+            <name>*SEM 2014</name>
+            <description>THE THIRD JOINT CONFERENCE ON LEXICAL AND COMPUTATIONAL SEMANTICS
+from Aug 23, 2014 - Aug 24, 2014
+in Dublin, Ireland.
+
+CFP deadline: Apr 11, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34888&amp;copyownerid=320</description>
+            <Point id="geom_6">
+                <coordinates>-6.2603097,53.3498053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>ISDOC 2014</name>
+            <description>International Conference on Information Systems and Design of Communication
+from May 16, 2014 - May 17, 2014
+in Lisbon, Portugal.
+
+CFP deadline: Feb 28, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34886&amp;copyownerid=48678</description>
+            <Point id="geom_7">
+                <coordinates>-9.1500364,38.7252993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>DEFCON Kerala 2014</name>
+            <description>DEFCON Kerala Information Security Meet 2014
+from Mar 8, 2014 - Mar 8, 2014
+in Kochi, Kerala, India.
+
+CFP deadline: Feb 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34881&amp;copyownerid=46782</description>
+            <Point id="geom_8">
+                <coordinates>76.2673041,9.9312328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>LCC 2014</name>
+            <description>THE 5TH EDITION OF THE INTERNATIONAL COLLOQUIUM âLANGUAGE, CULTURE, CIVILIZATIONâ
+from Apr 3, 2014 - Apr 5, 2014
+in Craiova, Romania.
+
+CFP deadline: Feb 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34880&amp;copyownerid=39459</description>
+            <Point id="geom_9">
+                <coordinates>23.813471,44.32476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>SaLTMiL 2014</name>
+            <description>9th SaLTMiL workshop on âFree/open-source language resources for the machine translation of less-resourced languagesâ at LREC 2014
+from May 27, 2014 - May 27, 2014
+in Reykjavik (Iceland).
+
+CFP deadline: Feb 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34879&amp;copyownerid=33388</description>
+            <Point id="geom_10">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>CIST 2014</name>
+            <description>IEEE 3rd International Colloquium in Information Science and Technology
+from Oct 20, 2014 - Oct 22, 2014
+in Tetuan, Morocco.
+
+CFP deadline: Mar 16, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34877&amp;copyownerid=58951</description>
+            <Point id="geom_11">
+                <coordinates>-5.368435,35.57621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>NECO 2014</name>
+            <description>The Third International Conference of Networks and Communications
+from May 24, 2014 - May 25, 2014
+in Delhi,India.
 
 CFP deadline: Jan 31, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34006&amp;copyownerid=37154</description>
-            <Point id="geom_19">
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34875&amp;copyownerid=46167</description>
+            <Point id="geom_12">
+                <coordinates>77.22496,28.635308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>GamifIR 2014</name>
+            <description>Gamification for Information Retrieval (GamifIR'14)
+from Apr 13, 2014 - Apr 13, 2014
+in Amsterdam, NL.
+
+CFP deadline: Feb 5, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34870&amp;copyownerid=4450</description>
+            <Point id="geom_13">
                 <coordinates>4.8951679,52.3702157,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_16">
+            <name>VNS 2014</name>
+            <description>3rd International Conference on Variable Neighborhood Search
+from Oct 8, 2014 - Oct 11, 2014
+in Djerba-Tunisia.
+
+CFP deadline: May 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34868&amp;copyownerid=59329</description>
+            <Point id="geom_14">
+                <coordinates>10.8451467,33.8075978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>BGRS-SB-2014</name>
+            <description>IX International Conference on the Bioinformatics of Genome Regulation and Structure-Systems Biology
+from Jun 23, 2014 - Jun 28, 2014
+in Novosibirsk, Russia.
+
+CFP deadline: Apr 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34865&amp;copyownerid=59318</description>
+            <Point id="geom_15">
+                <coordinates>82.9333333,55.0166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>APRES 2014</name>
+            <description>The First Asia Pacific Requirements Engineering Symposium
+from Apr 28, 2014 - Apr 29, 2014
+in Auckland - New Zealand.
+
+CFP deadline: Jan 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34858&amp;copyownerid=59299</description>
+            <Point id="geom_16">
+                <coordinates>174.7633315,-36.8484597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>LOOW 2014</name>
+            <description>Language in the Online &amp; Offline World 4: The Latitude
+from May 27, 2014 - May 28, 2014
+in Surabaya, East Java Province, Indonesia.
+
+CFP deadline: Feb 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34851&amp;copyownerid=59295</description>
+            <Point id="geom_17">
+                <coordinates>112.7455788,-7.2642396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>MLSP 2014</name>
+            <description>IEEE International Workshop on Machine Learning for Signal Processing
+from Sep 21, 2014 - Sep 24, 2014
+in Reims, France.
+
+CFP deadline: May 5, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34850&amp;copyownerid=45580</description>
+            <Point id="geom_18">
+                <coordinates>4.031696,49.258329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>CIIT 2014</name>
+            <description>11th International Conference on Informatics and Information Technology
+from Apr 11, 2014 - Apr 13, 2014
+in Molika, Bitola, Macedonia.
+
+CFP deadline: Mar 14, 2014 (Jan 31, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34849&amp;copyownerid=38774</description>
+            <Point id="geom_19">
+                <coordinates>21.3347222,41.0319444,0.0</coordinates>
+            </Point>
+        </Placemark>
         <Placemark id="feat_22">
-            <name>GPC 2014</name>
-            <description>The 9th International Conference on Green, Pervasive and Cloud Computing
-from May 26, 2014 - May 28, 2014
-in Wuhan, China.
+            <name>WCCI  2014</name>
+            <description>Special Session: Advances to Type-2 Fuzzy Logic Control
+from Jul 6, 2014 - Jul 11, 2014
+in Beijing, China.
 
-CFP deadline: Dec 5, 2013
+CFP deadline: TBD
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34003&amp;copyownerid=57967</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34847&amp;copyownerid=18492</description>
             <Point id="geom_20">
-                <coordinates>114.305393,30.593099,0.0</coordinates>
+                <coordinates>116.407526,39.90403,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_23">
-            <name>CSE 2014</name>
-            <description>Second International Conference on Computational Science &amp; Engineering
-from Apr 4, 2014 - Apr 5, 2014
-in Dubai, UAE.
+            <name>ISBAST 2014</name>
+            <description>IEEE International Symposium on Biometrics &amp; Security Technologies, August 26-27, 2014, Kuala Lumpur, Malaysia
+from Aug 26, 2014 - Aug 27, 2014
+in Kuala Lumpur, Malaysia.
 
-CFP deadline: Dec 6, 2013
+CFP deadline: Jan 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34002&amp;copyownerid=46167</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34846&amp;copyownerid=5416</description>
             <Point id="geom_21">
-                <coordinates>55.307485,25.271139,0.0</coordinates>
+                <coordinates>101.686855,3.139003,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_24">
-            <name>IWSSIP 2014</name>
-            <description>International Conference on Systems, Signals and Image Processing
-from May 12, 2014 - May 15, 2014
-in Dubrovnik, Croatia.
+            <name>ACV 2014</name>
+            <description>Advances in Computer Vision
+from Aug 22, 2014 - Aug 23, 2014
+in Istanbul / TURKEY.
 
-CFP deadline: Dec 9, 2013
+CFP deadline: Jun 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34001&amp;copyownerid=45580</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34842&amp;copyownerid=45926</description>
             <Point id="geom_22">
-                <coordinates>18.0944238,42.6506606,0.0</coordinates>
+                <coordinates>28.97696,41.00527,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_25">
-            <name>ISWCS 2014</name>
-            <description>International Symposium on Wireless Communication Systems
-from Aug 26, 2014 - Aug 29, 2014
-in Barcelona, Spain.
+            <name>IEPEM 2014</name>
+            <description>Innovations in Energy, Power and Electrical Machines
+from Aug 22, 2014 - Aug 23, 2014
+in Istanbul / TURKEY.
 
-CFP deadline: Apr 18, 2014
+CFP deadline: Jun 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34000&amp;copyownerid=45580</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34841&amp;copyownerid=45926</description>
             <Point id="geom_23">
-                <coordinates>2.1734035,41.3850639,0.0</coordinates>
+                <coordinates>28.97696,41.00527,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_26">
-            <name>AMSTA 2014</name>
-            <description>8th International KES Conference on Agents and Multi-agent Systems â Technologies &amp;  Applications
+            <name>CRIWG 2014</name>
+            <description>20th International Conference on Collaboration and Technology
+from Sep 7, 2014 - Sep 10, 2014
+in Santiago de Chile.
+
+CFP deadline: Apr 7, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34840&amp;copyownerid=58811</description>
+            <Point id="geom_24">
+                <coordinates>-70.641997,-33.4691199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>TALN -  2014</name>
+            <description>Traitement Automatique des Langues Naturelles
+from Jul 1, 2014 - Jul 4, 2014
+in Marseille, France.
+
+CFP deadline: Feb 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34838&amp;copyownerid=59263</description>
+            <Point id="geom_25">
+                <coordinates>5.36978,43.296482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>ROSS 2014</name>
+            <description>International Workshop on Runtime and Operating Systems for Supercomputers
+from Jun 10, 2014 - Jun 10, 2014
+in Munich, Germany.
+
+CFP deadline: Mar 14, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34837&amp;copyownerid=21899</description>
+            <Point id="geom_26">
+                <coordinates>11.5819806,48.1351253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>VB 2014</name>
+            <description>The 24th Virus Bulletin International Conference
+from Sep 24, 2014 - Sep 26, 2014
+in Seattle, USA.
+
+CFP deadline: Mar 7, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34835&amp;copyownerid=59259</description>
+            <Point id="geom_27">
+                <coordinates>-122.3320708,47.6062095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>DeSE 2014</name>
+            <description>Seventh International Conference on Developments in eSystems Engineering (DeSE '2014)
+from Aug 25, 2014 - Aug 27, 2014
+in Paphos, Cyprus.
+
+CFP deadline: May 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34829&amp;copyownerid=49757</description>
+            <Point id="geom_28">
+                <coordinates>32.4297369,34.7720133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>ICIFS 2014</name>
+            <description>18th International Conference on Intuitionistic Fuzzy Sets
+from May 10, 2014 - May 11, 2014
+in Sofia. Bulgaria.
+
+CFP deadline: Mar 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34828&amp;copyownerid=57285</description>
+            <Point id="geom_29">
+                <coordinates>23.3216697,42.6978388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>EmbeddedCom 2014</name>
+            <description>12th IEEE International Conference on Embedded Computing (EmbeddedCom 2014)
+from Aug 24, 2014 - Aug 27, 2014
+in Dalian, China..
+
+CFP deadline: Apr 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34827&amp;copyownerid=59240</description>
+            <Point id="geom_30">
+                <coordinates>121.614682,38.914003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>IMFC 2014</name>
+            <description>International Mathematical Finance Conference
+from Mar 19, 2014 - Mar 21, 2014
+in Miami, Florida.
+
+CFP deadline: Jan 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34826&amp;copyownerid=2</description>
+            <Point id="geom_31">
+                <coordinates>-80.2264393,25.7889689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Optimization 2014</name>
+            <description>Optimization 2014 Conference
+from Jul 28, 2014 - Jul 30, 2014
+in GuimarÃ£es, Portugal.
+
+CFP deadline: Mar 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34825&amp;copyownerid=2</description>
+            <Point id="geom_32">
+                <coordinates>-8.303473,41.4377483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>IFORS 2014</name>
+            <description>20th Conference of the International Federation of Operational Research Societies
+from Jul 13, 2014 - Jul 18, 2014
+in Barcelona, Spain.
+
+CFP deadline: Jan 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34824&amp;copyownerid=2</description>
+            <Point id="geom_33">
+                <coordinates>2.1734035,41.3850639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>ASMTA 2014</name>
+            <description>21st International Conference on Analytical &amp; Stochastic Modelling Techniques &amp; Applications
+from Jun 30, 2014 - Jul 2, 2014
+in Budapest.
+
+CFP deadline: Mar 3, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34823&amp;copyownerid=2</description>
+            <Point id="geom_34">
+                <coordinates>19.040235,47.497912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>JSM 2014</name>
+            <description>Joint Statistical Meeting
+from Aug 2, 2014 - Aug 7, 2014
+in Boston, MA.
+
+CFP deadline: Feb 3, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34822&amp;copyownerid=2</description>
+            <Point id="geom_35">
+                <coordinates>-71.0597732,42.3584308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>USEC 2014</name>
+            <description>The USENIX Security Symposium
+from Aug 20, 2014 - Aug 22, 2014
+in San Diego, CA.
+
+CFP deadline: Feb 27, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34821&amp;copyownerid=59237</description>
+            <Point id="geom_36">
+                <coordinates>-117.1572551,32.7153292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Turkish Foreign Policy 2014</name>
+            <description>Conference on  Changing Nature of Turkeyâs Foreign Policy
+from Mar 29, 2014 - Mar 29, 2014
+in University of London.
+
+CFP deadline: Jan 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34814&amp;copyownerid=29575</description>
+            <Point id="geom_37">
+                <coordinates>-0.1287784,51.5211841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>MBFEU 2014</name>
+            <description>MONETARY, BANKING AND FINANCIAL ISSUES IN CENTRAL AND EASTERN EU MEMBER COUNTRIES: HOW CAN CENTRAL AND EASTERN EU MEMBERS OVERCOME THE CURRENT ECONOMIC CRISIS?
+from Apr 10, 2014 - Apr 12, 2014
+in Iasi.
+
+CFP deadline: Mar 7, 2014 (Feb 10, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34813&amp;copyownerid=59232</description>
+            <Point id="geom_38">
+                <coordinates>27.5902778,47.1569444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>QoSA 2014</name>
+            <description>10th International ACM Sigsoft Conference on the Quality of Software Architectures
+from Jun 30, 2014 - Jul 4, 2014
+in Lille, France.
+
+CFP deadline: Feb 12, 2014 (Feb 5, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34812&amp;copyownerid=6327</description>
+            <Point id="geom_39">
+                <coordinates>3.057256,50.62925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>SPECOM 2014</name>
+            <description>16th International Conference on Speech and Computer
+from Oct 5, 2014 - Oct 9, 2014
+in Novi Sad, Serbia.
+
+CFP deadline: May 18, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34806&amp;copyownerid=56734</description>
+            <Point id="geom_40">
+                <coordinates>19.851858,45.262231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>IEC  2014</name>
+            <description>INTERNATIONAL CONFERENCE ON ENTREPRENEURSHIP
+from May 15, 2014 - May 16, 2014
+in ISTANBUL.
+
+CFP deadline: Jan 30, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34805&amp;copyownerid=59220</description>
+            <Point id="geom_41">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>TBFM 2014</name>
+            <description>2nd Workshop on Tool Building in Formal Methods
+from Jun 2, 2014 - Jun 2, 2014
+in Toulouse, France.
+
+CFP deadline: Mar 10, 2014 (Mar 3, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34804&amp;copyownerid=28044</description>
+            <Point id="geom_42">
+                <coordinates>1.444209,43.604652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>FDL 2014</name>
+            <description>Forum on specification and Design Languages
+from Oct 14, 2014 - Oct 16, 2014
+in Munich, Germany.
+
+CFP deadline: May 5, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34803&amp;copyownerid=59217</description>
+            <Point id="geom_43">
+                <coordinates>11.5819806,48.1351253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>ICEEG 2014</name>
+            <description>2014 International Conference on Environmental  and  Engineering  Geoscience
+from Jun 18, 2014 - Jun 20, 2014
+in Copenhagen, Demark.
+
+CFP deadline: Feb 25, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34800&amp;copyownerid=13881</description>
+            <Point id="geom_44">
+                <coordinates>12.5683371,55.6760968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>ICBBS 2014</name>
+            <description>2014 3rd International Conference on Bioinformatics and Biomedical Science
+from Jun 18, 2014 - Jun 20, 2014
+in Copenhagen, Demark.
+
+CFP deadline: Feb 25, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34799&amp;copyownerid=13881</description>
+            <Point id="geom_45">
+                <coordinates>12.5683371,55.6760968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>ICNFS 2014</name>
+            <description>2014 3rd International Conference on Nutrition and Food Sciences
+from Jun 18, 2014 - Jun 20, 2014
+in Copenhagen, Demark.
+
+CFP deadline: Feb 25, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34798&amp;copyownerid=13881</description>
+            <Point id="geom_46">
+                <coordinates>12.5683371,55.6760968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>SMI 2014</name>
+            <description>Shape Modeling International 2014
+from Oct 28, 2014 - Oct 30, 2014
+in Hong Kong, China.
+
+CFP deadline: Jun 30, 2014 (Jun 27, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34797&amp;copyownerid=59205</description>
+            <Point id="geom_47">
+                <coordinates>114.109497,22.396428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>AI &amp; FL 2014</name>
+            <description>Second International Conference on Artificial Intelligence and Fuzzy Logic
+from Apr 4, 2014 - Apr 5, 2014
+in Dubai, UAE.
+
+CFP deadline: Dec 31, 2013
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34796&amp;copyownerid=46167</description>
+            <Point id="geom_48">
+                <coordinates>55.307485,25.271139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>ISCC 2014</name>
+            <description>International Symposium on Creative Computing
+from Apr 7, 2014 - Apr 11, 2014
+in oxford.
+
+CFP deadline: Jan 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34795&amp;copyownerid=59162</description>
+            <Point id="geom_49">
+                <coordinates>-1.2577263,51.7520209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>LRT4HDA 2014</name>
+            <description>LANGUAGE RESOURCES AND TECHNOLOGIES FOR PROCESSING AND LINKING HISTORICAL DOCUMENTS AND ARCHIVES  âDeploying Linked Open Data in Cultural Heritage
+from May 26, 2014 - May 26, 2014
+in Reykjawik.
+
+CFP deadline: Feb 9, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34794&amp;copyownerid=57424</description>
+            <Point id="geom_50">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>LDL 2014</name>
+            <description>3rd Workshop on LINKED DATA IN LINGUISTICS: Multilingual Knowledge Resources and Natural Language Processing
+from May 27, 2014 - May 27, 2014
+in Reykjavik, Iceland.
+
+CFP deadline: Feb 7, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34791&amp;copyownerid=26653</description>
+            <Point id="geom_51">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>CIBEC 2014</name>
+            <description>7th Cairo International Biomedical Engineering Conference
+from Dec 11, 2014 - Dec 13, 2014
+in Giza, Egypt.
+
+CFP deadline: Jul 21, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34789&amp;copyownerid=59193</description>
+            <Point id="geom_52">
+                <coordinates>31.2088526,30.0130557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>IWAI 2014</name>
+            <description>International Workshop on Artificial Intelligence
+from Aug 22, 2014 - Aug 23, 2014
+in Istanbul / TURKEY.
+
+CFP deadline: Jun 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34787&amp;copyownerid=45926</description>
+            <Point id="geom_53">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>BUCC 2014</name>
+            <description>7th Workshop on Building and Using Comparable Corpora
+from May 27, 2014 - May 27, 2014
+in Reykjavik (Iceland).
+
+CFP deadline: Feb 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34786&amp;copyownerid=8142</description>
+            <Point id="geom_54">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>FICTA 2014</name>
+            <description>Frontiers in Intelligent Computing, Theory and Application
+from Nov 14, 2014 - Nov 15, 2014
+in Bhubaneswar, India.
+
+CFP deadline: May 30, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34783&amp;copyownerid=47533</description>
+            <Point id="geom_55">
+                <coordinates>85.8245398,20.2960587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>JSSPP 2014</name>
+            <description>Job Scheduling Strategies for Parallel Processors
+from May 23, 2014 - May 23, 2014
+in Phoenix, AZ, USA.
+
+CFP deadline: Jan 19, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34782&amp;copyownerid=46703</description>
+            <Point id="geom_56">
+                <coordinates>-112.0740373,33.4483771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>WBIR 2014</name>
+            <description>International Workshop on Biomedical Image Registration
+from Jul 7, 2014 - Jul 8, 2014
+in London.
+
+CFP deadline: Jan 17, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34780&amp;copyownerid=59030</description>
+            <Point id="geom_57">
+                <coordinates>-0.1198244,51.5112139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>IMCW 2014</name>
+            <description>5th International Symposium on Information Management in a Changing World
+from Nov 24, 2014 - Nov 26, 2014
+in Antalya, Turkey.
+
+CFP deadline: Jul 1, 2014 (Mar 16, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34779&amp;copyownerid=27805</description>
+            <Point id="geom_58">
+                <coordinates>30.70563,36.88414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>KONVENS 2014</name>
+            <description>12th KONVENS  (Konferenz zur Verarbeitung NatÃ¼rlicher Sprache /  Conference on Natural Language Processing)
+from Oct 8, 2014 - Oct 10, 2014
+in Hildesheim, Germany.
+
+CFP deadline: TBD
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34776&amp;copyownerid=59173</description>
+            <Point id="geom_59">
+                <coordinates>9.9658683,52.1409542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>SIBGRAPI 2014</name>
+            <description>SIBGRAPI 2014 - Conference on Graphics, Patterns and Images
+from Aug 27, 2014 - Aug 30, 2014
+in Rio de Janeiro, Brazil.
+
+CFP deadline: Apr 25, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34775&amp;copyownerid=52090</description>
+            <Point id="geom_60">
+                <coordinates>-43.2007101,-22.9133954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>VAST 2014</name>
+            <description>IEEE Conference on Visual Analytics Science and Technology
+from Nov 9, 2014 - Nov 14, 2014
+in Paris, France.
+
+CFP deadline: Mar 21, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34774&amp;copyownerid=2</description>
+            <Point id="geom_61">
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>OMAD 2014</name>
+            <description>Workshop on Optimization Methods for Anomaly Detection
+from Apr 24, 2014 - Apr 26, 2014
+in Philadelphia, Pennsylvania, USA.
+
+CFP deadline: Jan 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34773&amp;copyownerid=2</description>
+            <Point id="geom_62">
+                <coordinates>-75.163789,39.952335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>WOCC 2014</name>
+            <description>The 23rd Wireless and Optical Communication Conference
+from May 9, 2014 - May 10, 2014
+in Newark, NJ, USA.
+
+CFP deadline: Jan 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34772&amp;copyownerid=2</description>
+            <Point id="geom_63">
+                <coordinates>-74.1723667,40.735657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>PaPEC 2014</name>
+            <description>First workshop on the Principles and Practice of Eventual Consistency
+from Apr 13, 2014 - Apr 13, 2014
+in Amsterdam, The Netherlands.
+
+CFP deadline: Jan 27, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34771&amp;copyownerid=2</description>
+            <Point id="geom_64">
+                <coordinates>4.8951679,52.3702157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>EMSE 2014</name>
+            <description>The 1st International Workshop on Elasticity Mechanisms for Software-Defined Environments
+from Jun 30, 2014 - Jul 3, 2014
+in Madrid, Spain.
+
+CFP deadline: Jan 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34770&amp;copyownerid=2</description>
+            <Point id="geom_65">
+                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>SoMuS 2014</name>
+            <description>Workshop on Social Multimedia and Storytelling
+from Apr 1, 2014 - Apr 1, 2014
+in Glasgow, UK.
+
+CFP deadline: Feb 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34769&amp;copyownerid=2</description>
+            <Point id="geom_66">
+                <coordinates>-4.251806,55.864237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>CSF 2014</name>
+            <description>27th IEEE Computer Security Foundations Symposium
+from Jul 19, 2014 - Jul 22, 2014
+in Vienna, Austria.
+
+CFP deadline: Feb 10, 2014 (Feb 3, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34768&amp;copyownerid=2</description>
+            <Point id="geom_67">
+                <coordinates>16.3738189,48.2081743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>DSMM 2014</name>
+            <description>Workshop on Data Science for Macro-Modeling
+from Jun 27, 2014 - Jun 27, 2014
+in Snowbird, Utah, USA.
+
+CFP deadline: Mar 21, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34767&amp;copyownerid=2</description>
+            <Point id="geom_68">
+                <coordinates>-111.6552024,40.5818948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>RR 2014</name>
+            <description>The International Conference on Web Reasoning and Rule Systems
+from Sep 15, 2014 - Sep 17, 2014
+in Athens, Greece.
+
+CFP deadline: Apr 20, 2014 (Apr 13, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34766&amp;copyownerid=2</description>
+            <Point id="geom_69">
+                <coordinates>23.7293097,37.9837155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>CloudSD 2014</name>
+            <description>The 2nd International Workshop on Cloud Service Discovery
+from May 13, 2014 - May 13, 2014
+in Tainan, Taiwan.
+
+CFP deadline: Jan 6, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34765&amp;copyownerid=2</description>
+            <Point id="geom_70">
+                <coordinates>120.2512728,23.1416985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>EMAS 2015</name>
+            <description>The 2nd International Workshop on Engineering Multi-Agent Systems
+from May 5, 2015 - May 6, 2015
+in Paris, France.
+
+CFP deadline: Jan 22, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34764&amp;copyownerid=2</description>
+            <Point id="geom_71">
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>SEWM 2014</name>
+            <description>Workshop on Social Events in Web Multimedia
+from Apr 1, 2014 - Apr 4, 2014
+in Glasgow, UK.
+
+CFP deadline: Feb 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34763&amp;copyownerid=2</description>
+            <Point id="geom_72">
+                <coordinates>-4.251806,55.864237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>ICCD 2014</name>
+            <description>32nd IEEE International Conference on Computer Design
+from Oct 19, 2014 - Oct 22, 2014
+in Seoul, Republic, of, Korea.
+
+CFP deadline: May 18, 2014 (May 11, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34762&amp;copyownerid=2</description>
+            <Point id="geom_73">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>RITMAN 2014</name>
+            <description>IEEE WoWMoM Workshop on Resilient Information and Communication Technologies for Management of Natural Disasters
+from Jun 16, 2014 - Jun 16, 2014
+in Sydney, Australia.
+
+CFP deadline: Mar 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34761&amp;copyownerid=20061</description>
+            <Point id="geom_74">
+                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>RARM 2014</name>
+            <description>Recent Advances in Robotics and Mechatronics
+from Aug 22, 2014 - Aug 23, 2014
+in Istanbul / TURKEY.
+
+CFP deadline: Jun 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34755&amp;copyownerid=45926</description>
+            <Point id="geom_75">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>INFOSCALE 2014</name>
+            <description>5th International Conference on Scalable Information Systems
+from Sep 24, 2014 - Sep 26, 2014
+in Seoul, South Korea.
+
+CFP deadline: Mar 25, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34751&amp;copyownerid=59161</description>
+            <Point id="geom_76">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>saas 2014</name>
+            <description>software as a service
+from Apr 4, 2014 - Apr 7, 2014
+in Oxford, UK.
+
+CFP deadline: Jan 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34750&amp;copyownerid=59162</description>
+            <Point id="geom_77">
+                <coordinates>-1.2577263,51.7520209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>CMC 2014</name>
+            <description>6th International Conference on Concept Mapping
+from Sep 23, 2014 - Sep 25, 2014
+in Santos, Brazil.
+
+CFP deadline: May 19, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34749&amp;copyownerid=59160</description>
+            <Point id="geom_78">
+                <coordinates>-46.3354875,-23.9540376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>PSI 2014</name>
+            <description>Ershov Informatics Conference
+from Jun 24, 2014 - Jun 27, 2014
+in Peterhof, St. Petersburg, Russia.
+
+CFP deadline: Jan 20, 2014 (Jan 13, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34747&amp;copyownerid=59158</description>
+            <Point id="geom_79">
+                <coordinates>29.9,59.8833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>BGM 2014</name>
+            <description>WWW 2014 Workshop on Big Graph Mining (BGM)
+from Apr 7, 2014 - Apr 7, 2014
+in Seoul, Korea.
+
+CFP deadline: Jan 17, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34746&amp;copyownerid=58700</description>
+            <Point id="geom_80">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>ACSModPar 2014</name>
+            <description>Advances in Complex Systems: Modelling and Parallel Implementation Workshop
+from Jun 30, 2014 - Jul 3, 2014
+in Guimaraes, Portugal.
+
+CFP deadline: Feb 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34745&amp;copyownerid=59154</description>
+            <Point id="geom_81">
+                <coordinates>-8.303473,41.4377483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>SCOPES 2014</name>
+            <description>17th International Workshop on Software and Compilers for Embedded Systems
+from Jun 10, 2014 - Jun 11, 2014
+in Sankt Goar, Germany.
+
+CFP deadline: Mar 17, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34740&amp;copyownerid=19747</description>
+            <Point id="geom_82">
+                <coordinates>7.7131202,50.1512782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>VBI-OD 2014</name>
+            <description>International Symposium on Visualisation in Business Intelligence and Open Data
+from Jul 15, 2014 - Jul 18, 2014
+in Paris.
+
+CFP deadline: Mar 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34739&amp;copyownerid=44468</description>
+            <Point id="geom_83">
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>DATA 2014</name>
+            <description>Int'l Conf. on Data Management Technologies and Applications
+from Aug 29, 2014 - Aug 31, 2014
+in Vienna, Austria.
+
+CFP deadline: Mar 18, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34738&amp;copyownerid=320</description>
+            <Point id="geom_84">
+                <coordinates>16.3738189,48.2081743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>HCI 2014</name>
+            <description>28th British HCI Conference
+from Sep 9, 2014 - Sep 12, 2014
+in Southport, England.
+
+CFP deadline: Apr 14, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34737&amp;copyownerid=59143</description>
+            <Point id="geom_85">
+                <coordinates>-3.010113,53.645708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>IACAP 2014</name>
+            <description>The Annual Meeting of the International Association for Computing and Philosophy
+from Jul 2, 2014 - Jul 4, 2014
+in Thessaloniki, Greece.
+
+CFP deadline: Mar 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34736&amp;copyownerid=58575</description>
+            <Point id="geom_86">
+                <coordinates>22.9446064,40.6393495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>IIMSS 2014</name>
+            <description>7th International KES Conference on Intelligent Interactive Multimedia Systems and Services
 from Jun 18, 2014 - Jun 20, 2014
 in Chania, Crete, Greece.
 
 CFP deadline: Jan 27, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33998&amp;copyownerid=57950</description>
-            <Point id="geom_24">
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34735&amp;copyownerid=57950</description>
+            <Point id="geom_87">
                 <coordinates>24.0180367,35.5138298,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_27">
-            <name>SEDE 2014</name>
-            <description>The 23rd International Conference on Software Engineering and Data Engineering
-from Oct 13, 2014 - Oct 15, 2014
-in New Orleans, Louisiana, USA.
-
-CFP deadline: May 30, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33994&amp;copyownerid=9837</description>
-            <Point id="geom_25">
-                <coordinates>-90.0715323,29.9510658,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_28">
-            <name>LAPSM 2014</name>
-            <description>ACL Workshop on Latent Attribute Prediction in Social Media
-from Jun 27, 2014 - Jun 27, 2014
-in Baltimore, MD.
-
-CFP deadline: Mar 21, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33992&amp;copyownerid=19251</description>
-            <Point id="geom_26">
-                <coordinates>-76.6121893,39.2903848,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_29">
-            <name>MSM 2014</name>
-            <description>5th International Workshop on Modeling Social Media (MSM 2014)
-from Apr 8, 2014 - Apr 8, 2014
-in Seoul, Korea.
-
-CFP deadline: Jan 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33991&amp;copyownerid=19251</description>
-            <Point id="geom_27">
-                <coordinates>126.9779692,37.566535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_30">
-            <name>AAMCGIR 2014</name>
-            <description>2014 Information Technology in Academic Medicine Conference
-from Jun 9, 2014 - Jun 11, 2014
-in Nashville, TN.
-
-CFP deadline: Dec 6, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33990&amp;copyownerid=38131</description>
-            <Point id="geom_28">
-                <coordinates>-86.7833333,36.1666667,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_31">
-            <name>WCOP 2014</name>
-            <description>19th International Doctoral Symposium on Components and Architecture
-from Jun 30, 2014 - Jun 30, 2014
-in Lille, France.
-
-CFP deadline: Feb 27, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33989&amp;copyownerid=6327</description>
-            <Point id="geom_29">
-                <coordinates>3.057256,50.62925,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_32">
-            <name>Special Session-WCCI  2014</name>
-            <description>Special Session-WCCI 2014- Time series: Advanced methods of analysis and forecast
-from Jul 6, 2014 - Jul 11, 2014
-in China.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33988&amp;copyownerid=57936</description>
-            <Point id="geom_30">
-                <coordinates>104.195397,35.86166,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_33">
-            <name>ACO 2014</name>
-            <description>Adopting the Cultural Other:  Western Participatory Borrowings
-from Jun 19, 2014 - Jun 20, 2014
-in Bangor, Gwynedd UK.
-
-CFP deadline: Jan 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33987&amp;copyownerid=57931</description>
-            <Point id="geom_31">
-                <coordinates>-4.129263,53.22739,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_34">
-            <name>ICIIP 2014</name>
-            <description>2014 the 3rd International Conference on Intelligent Information Processing (ICIIP 2014)
-from May 24, 2014 - May 26, 2014
-in Singapore.
-
-CFP deadline: Dec 31, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33986&amp;copyownerid=13881</description>
-            <Point id="geom_32">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_35">
-            <name>IGM 2014</name>
-            <description>7th International Congress for Gender and Sex Specific Medicine
-from Nov 10, 2014 - Nov 12, 2014
-in Tel Aviv, Israel.
-
-CFP deadline: Jul 21, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33985&amp;copyownerid=49267</description>
-            <Point id="geom_33">
-                <coordinates>34.777819,32.066158,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_36">
-            <name>ICWOC 2014</name>
-            <description>2014 the 3rd International Conference on Wireless and Optical Communications (ICWOC 2014)
-from May 24, 2014 - May 26, 2014
-in Singapore.
-
-CFP deadline: Dec 31, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33984&amp;copyownerid=13881</description>
-            <Point id="geom_34">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_37">
-            <name>ICCSN 2014</name>
-            <description>2014 the 6th International Conference on Communication Software and Networks (ICCSN 2014)
-from May 24, 2014 - May 26, 2014
-in Singapore.
-
-CFP deadline: Jan 20, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33983&amp;copyownerid=13881</description>
-            <Point id="geom_35">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_38">
-            <name>ICIII 2014</name>
-            <description>2014 3rd International Conference on Industrial and Intelligent Information (ICIII 2014)
-from May 21, 2014 - May 22, 2014
-in Paris, France.
-
-CFP deadline: Feb 5, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33982&amp;copyownerid=13881</description>
-            <Point id="geom_36">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_39">
-            <name>ICSEM 2014</name>
-            <description>2014 3rd International Conference on System Engineering and Modeling (ICSEM 2014)
-from May 21, 2014 - May 22, 2014
-in Paris, France.
-
-CFP deadline: Feb 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33981&amp;copyownerid=13881</description>
-            <Point id="geom_37">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_40">
-            <name>ICCCM 2014</name>
-            <description>2014 4th International Conference on Computer Communication and Management (ICCCM 2014)
-from May 21, 2014 - May 22, 2014
-in Paris, France.
-
-CFP deadline: Jan 30, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33980&amp;copyownerid=13881</description>
-            <Point id="geom_38">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_41">
-            <name>IUPT 2014</name>
-            <description>The 4th International Symposium on Internet of Ubiquitous and Pervasive Things
-from Jun 2, 2014 - Jun 5, 2014
-in Hasselt, Belgium.
-
-CFP deadline: Jan 4, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33975&amp;copyownerid=44745</description>
-            <Point id="geom_39">
-                <coordinates>5.33248,50.93069,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_42">
-            <name>ICGWBT 2014</name>
-            <description>International Conference on Green World in Business and Technology
-from Mar 29, 2014 - Mar 29, 2014
-in Auditorium UAD Kampus 3 Yogyakarta.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33972&amp;copyownerid=57878</description>
-            <Point id="geom_40">
-                <coordinates>110.368797,-7.797224,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_43">
-            <name>URI Graduate Conference 2014</name>
-            <description>Opening Spaces: Enabling Engagement with Complex Conversations
-from Mar 29, 2014 - Mar 29, 2014
-in University of Rhode Island.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33971&amp;copyownerid=57913</description>
-            <Point id="geom_41">
-                <coordinates>-71.5317118,41.4863755,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_44">
-            <name>IBERAMIA 2014</name>
-            <description>Ibero-American Conference on Artificial Intelligence
-from Nov 24, 2014 - Nov 27, 2014
-in Santiago, Chile.
-
-CFP deadline: May 18, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33968&amp;copyownerid=16306</description>
-            <Point id="geom_42">
-                <coordinates>-70.641997,-33.4691199,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_45">
-            <name>ICONIP 2014</name>
-            <description>21st International Conference on Neural Information Processing
-from Nov 3, 2014 - Nov 6, 2014
-in Kuching, Sarawak, Malaysia.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33967&amp;copyownerid=16306</description>
-            <Point id="geom_43">
-                <coordinates>110.3442199,1.530976,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_46">
-            <name>EVA London 2014</name>
-            <description>Electronic Visualisation and the Arts London
-from Jul 8, 2014 - Jul 10, 2014
-in London, UK.
-
-CFP deadline: Jan 10, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33966&amp;copyownerid=16662</description>
-            <Point id="geom_44">
-                <coordinates>-0.1198244,51.5112139,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_47">
-            <name>IWCIT 2014</name>
-            <description>2014 Iran Workshop on Communication and Information Theory
-from May 7, 2014 - May 8, 2014
-in Tehran, Iran.
-
-CFP deadline: Jan 11, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33964&amp;copyownerid=44873</description>
-            <Point id="geom_45">
-                <coordinates>51.422945,35.696216,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_48">
-            <name>ECE 2014</name>
-            <description>International 1st e-Conference on Energies
-from Mar 14, 2014 - Mar 31, 2014
-in online.
-
-CFP deadline: Jan 16, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33963&amp;copyownerid=54776</description>
-            <Point id="geom_46">
-                <coordinates>-86.7224704,33.4332733,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_49">
-            <name>RESA 2014</name>
-            <description>1st WORKSHOP ON RESA IN REFSQ 2014
-from Apr 7, 2014 - Apr 7, 2014
-in ESSEN - GERMANY.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33962&amp;copyownerid=57885</description>
-            <Point id="geom_47">
-                <coordinates>7.0115552,51.4556432,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_50">
-            <name>ICMMR 2014</name>
-            <description>2014 International Conference on Mechanics and Mechatronics Research (ICMMR 2014)
-from May 8, 2014 - May 9, 2014
-in Kuala Lumpur, Malaysia.
+        <Placemark id="feat_90">
+            <name>SDM 2014</name>
+            <description>nternational Conference on Sustainable Design and Manufacturing
+from Apr 28, 2014 - Apr 30, 2014
+in Wales.
 
 CFP deadline: Dec 15, 2013
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33961&amp;copyownerid=13881</description>
-            <Point id="geom_48">
-                <coordinates>101.686855,3.139003,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34734&amp;copyownerid=57950</description>
+            <Point id="geom_88">
+                <coordinates>-3.7837117,52.1306607,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_51">
-            <name>ICMMT 2014</name>
-            <description>2014 5th International Conference on Material and Manufacturing Technology (ICMMT 2014)
-from May 8, 2014 - May 9, 2014
-in Kuala Lumpur, Malaysia.
+        <Placemark id="feat_91">
+            <name>TeenUX 2014</name>
+            <description>Understanding Teen UX Workshop @ CHI 2014
+from Apr 26, 2014 - Apr 26, 2014
+in Toronto, Canada.
 
-CFP deadline: Jan 15, 2014
+CFP deadline: Feb 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33960&amp;copyownerid=13881</description>
-            <Point id="geom_49">
-                <coordinates>101.686855,3.139003,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34733&amp;copyownerid=59143</description>
+            <Point id="geom_89">
+                <coordinates>-79.3831843,43.653226,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_52">
-            <name>ICCBN 2014</name>
-            <description>2014 3rd International Conference on Communication and Broadband Networking (ICCBN 2014)
-from May 1, 2014 - May 2, 2014
-in Singapore.
+        <Placemark id="feat_92">
+            <name>DCC 2014</name>
+            <description>SIGCOMM Workshop on Distributed Cloud Computing
+from Aug 22, 2014 - Aug 22, 2014
+in Chicago, USA.
 
-CFP deadline: Jan 5, 2014
+CFP deadline: Mar 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33959&amp;copyownerid=13881</description>
-            <Point id="geom_50">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34731&amp;copyownerid=34114</description>
+            <Point id="geom_90">
+                <coordinates>-87.6297982,41.8781136,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_53">
-            <name>ICSIE 2014</name>
-            <description>2014 3rd International Conference on Software and Information Engineering (ICSIE 2014)
-from May 1, 2014 - May 2, 2014
-in Singapore.
+        <Placemark id="feat_93">
+            <name>#Micropost2014 Challenge 2014</name>
+            <description>CfP: Entity Extraction and Linking Challenge (#Microposts2014 @ WWW2014)
+from Dec 20, 2013 - Feb 14, 2014
+in Seoul.
 
-CFP deadline: Jan 10, 2014
+CFP deadline: Feb 21, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33958&amp;copyownerid=13881</description>
-            <Point id="geom_51">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34730&amp;copyownerid=59136</description>
+            <Point id="geom_91">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_54">
-            <name>ICIWE 2014</name>
-            <description>2014 3rd International Conference on Internet and Web Engineering (ICIWE 2014)
-from May 1, 2014 - May 2, 2014
-in Singapore.
+        <Placemark id="feat_94">
+            <name>SERIPS 2014</name>
+            <description>International Workshop on Software Engineering Research and Industrial Practices (SER&amp;IPs 2014) at ICSE 2014
+from May 31, 2014 - Jun 7, 2014
+in Hyderabad, India.
 
-CFP deadline: Jan 15, 2014
+CFP deadline: Jan 24, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33957&amp;copyownerid=13881</description>
-            <Point id="geom_52">
-                <coordinates>103.819836,1.352083,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34729&amp;copyownerid=59135</description>
+            <Point id="geom_92">
+                <coordinates>78.486671,17.385044,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_55">
-            <name>ICIEA 2014</name>
-            <description>2014 International Conference on Industrial Engineering and Applications (ICIEA 2014)
-from May 29, 2014 - May 30, 2014
-in Sydney, Australia.
+        <Placemark id="feat_95">
+            <name>RTCSP 2014</name>
+            <description>5th National Conference on Recent Trends in Communication, Computation and Signal Processing 2014
+from Feb 26, 2014 - Feb 27, 2014
+in Amrita Vishwa Vidyapeetham, Coimbatore.
 
-CFP deadline: Dec 30, 2013
+CFP deadline: Jan 30, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33956&amp;copyownerid=13881</description>
-            <Point id="geom_53">
-                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34728&amp;copyownerid=59129</description>
+            <Point id="geom_93">
+                <coordinates>76.9001986,10.9024692,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_56">
-            <name>ICASC 2014</name>
-            <description>2014 The 3rd International Conference on Advance in Soft Computing (ICASC 2014)
-from May 29, 2014 - May 30, 2014
-in Sydney, Australia.
-
-CFP deadline: Dec 25, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33954&amp;copyownerid=13881</description>
-            <Point id="geom_54">
-                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_57">
-            <name>ICFCC  2014</name>
-            <description>2014 the 6th International Conference on Future Computer and Communication (ICFCC 2014)
-from May 29, 2014 - May 30, 2014
-in Sydney, Australia.
-
-CFP deadline: Dec 20, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33953&amp;copyownerid=13881</description>
-            <Point id="geom_55">
-                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_58">
-            <name>SNOW 2014</name>
-            <description>Second Workshop on Social News on the Web
-from Apr 7, 2014 - Apr 7, 2017
+        <Placemark id="feat_96">
+            <name>WebET 2014</name>
+            <description>WWW2014 Workshop on Web-based Education Technologies
+from Apr 9, 2014 - Apr 9, 2014
 in Seoul, Korea.
 
 CFP deadline: Jan 14, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33946&amp;copyownerid=46380</description>
-            <Point id="geom_56">
-                <coordinates>126.9779692,37.566535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_59">
-            <name>NGC 2014</name>
-            <description>Nano and Giga Challenges in Electronics, Photonics and Renewable Energy
-from Mar 10, 2014 - Mar 14, 2014
-in ASU Tempe, Arizona, USA.
-
-CFP deadline: Apr 10, 2014 (Dec 10, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33945&amp;copyownerid=57860</description>
-            <Point id="geom_57">
-                <coordinates>-111.9275003,33.4119462,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_60">
-            <name>ITGSpeech 2014</name>
-            <description>11th ITG conference on Speech Communication
-from Sep 24, 2014 - Sep 26, 2014
-in Erlangen, Germany.
-
-CFP deadline: Apr 11, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33944&amp;copyownerid=57858</description>
-            <Point id="geom_58">
-                <coordinates>11.0142675,49.5907169,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_61">
-            <name>CLPD 2014</name>
-            <description>The Changing Landscape of Professional Discourse /  Das weite Feld der Fachkommunikation
-from Nov 6, 2014 - Nov 8, 2014
-in Czech Republic.
-
-CFP deadline: Jun 20, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33942&amp;copyownerid=57854</description>
-            <Point id="geom_59">
-                <coordinates>15.472962,49.817492,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_62">
-            <name>ArgMining 2014</name>
-            <description>First Workshop on Argumentation Mining
-from Jun 26, 2014 - Jun 27, 2014
-in Baltimore, MD, USA.
-
-CFP deadline: Mar 21, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33940&amp;copyownerid=320</description>
-            <Point id="geom_60">
-                <coordinates>-76.6121893,39.2903848,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_63">
-            <name>SNIGM 2014</name>
-            <description>The Fourth International Workshop on Sensor Networks for Intelligence Gathering and Monitoring
-from Jun 2, 2014 - Jun 5, 2014
-in Hasselt, Belgium.
-
-CFP deadline: Jan 4, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33939&amp;copyownerid=42733</description>
-            <Point id="geom_61">
-                <coordinates>5.33248,50.93069,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_64">
-            <name>GRF-SPaC 2014</name>
-            <description>Sustainable Production and Consumption Conference
-from Jun 8, 2014 - Jun 11, 2014
-in Shanghai, China.
-
-CFP deadline: May 15, 2014 (Dec 15, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33938&amp;copyownerid=56141</description>
-            <Point id="geom_62">
-                <coordinates>121.473701,31.230416,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_65">
-            <name>INC 2014</name>
-            <description>10th International Networking Conference
-from Jul 8, 2014 - Jul 10, 2014
-in Plymouth, United Kingdom.
-
-CFP deadline: Jan 10, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33937&amp;copyownerid=57847</description>
-            <Point id="geom_63">
-                <coordinates>-4.1426565,50.3754565,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_66">
-            <name>AISB AI &amp; Games 2014</name>
-            <description>5th AISB Symposium on AI &amp; Games
-from Apr 1, 2014 - Apr 1, 2014
-in London.
-
-CFP deadline: Jan 3, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33935&amp;copyownerid=14565</description>
-            <Point id="geom_64">
-                <coordinates>-0.1198244,51.5112139,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_67">
-            <name>CGMIP 2014</name>
-            <description>The International Conference on Computer Graphics, Multimedia and Image Processing
-from Nov 17, 2014 - Nov 19, 2014
-in United States.
-
-CFP deadline: Oct 17, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33934&amp;copyownerid=41342</description>
-            <Point id="geom_65">
-                <coordinates>-95.712891,37.09024,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_68">
-            <name>Greek Civil Society  2013</name>
-            <description>Call for abstracts for edited volume on Greek civil society
-from Nov 19, 2013 - May 31, 2014
-in Athens, Greece.
-
-CFP deadline: Dec 15, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33933&amp;copyownerid=57837</description>
-            <Point id="geom_66">
-                <coordinates>23.7293097,37.9837155,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_69">
-            <name>Humanoids 2014</name>
-            <description>IEEE-RAS International Conference on Humanoid Robots
-from Nov 18, 2014 - Nov 20, 2014
-in Madrid, Spain.
-
-CFP deadline: Jul 14, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33932&amp;copyownerid=57838</description>
-            <Point id="geom_67">
-                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_70">
-            <name>MultiClust 2014</name>
-            <description>SDM 2014 Mini-Symposium on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering
-from Apr 24, 2014 - Apr 26, 2014
-in Philadelphia, Pennsylvania, USA.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33931&amp;copyownerid=10100</description>
-            <Point id="geom_68">
-                <coordinates>-75.163789,39.952335,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_71">
-            <name>2nd ICOM 2014</name>
-            <description>2nd International Conference on Marketing 2014
-from Feb 25, 2014 - Feb 26, 2014
-in Colombo, Sri Lanka.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33930&amp;copyownerid=49551</description>
-            <Point id="geom_69">
-                <coordinates>79.861243,6.9270786,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_72">
-            <name>ICODM 2014</name>
-            <description>International Conference on Digital Marketing 2014
-from Jun 3, 2014 - Jun 4, 2014
-in Colombo, Sri Lanka.
-
-CFP deadline: Nov 30, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33929&amp;copyownerid=49551</description>
-            <Point id="geom_70">
-                <coordinates>79.861243,6.9270786,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_73">
-            <name>ICOAH 2014</name>
-            <description>International Conference on Arts &amp; Humanities 2014
-from Apr 2, 2014 - Apr 3, 2014
-in Colombo, Sri Lanka.
-
-CFP deadline: Dec 31, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33928&amp;copyownerid=49551</description>
-            <Point id="geom_71">
-                <coordinates>79.861243,6.9270786,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_74">
-            <name>META 2014</name>
-            <description>META'2014 Int. Conf. on Metaheuristics and Nature Inspired Computing
-from Oct 27, 2014 - Oct 27, 2014
-in Marrakech Morocco.
-
-CFP deadline: May 10, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33927&amp;copyownerid=31701</description>
-            <Point id="geom_72">
-                <coordinates>-8.0,31.6333333,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_75">
-            <name>AOC 2014</name>
-            <description>Eighth IEEE WoWMoM Workshop on Autonomic and Opportunistic Communications
-from Jun 16, 2013 - Jun 16, 2013
-in Sydney, NSW, Australia.
-
-CFP deadline: Mar 7, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33926&amp;copyownerid=57820</description>
-            <Point id="geom_73">
-                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_76">
-            <name>SOCM 2014</name>
-            <description>2nd International Workshop on the Theory and Practice of Social Machines
-from Apr 7, 2014 - Apr 7, 2014
-in Seoul, Korea.
-
-CFP deadline: Jan 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33925&amp;copyownerid=12046</description>
-            <Point id="geom_74">
-                <coordinates>126.9779692,37.566535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_77">
-            <name>ICT Innovations 2014</name>
-            <description>ICT Innovations 2014
-from Sep 9, 2014 - Sep 12, 2014
-in Ohrid, Macedonia.
-
-CFP deadline: Apr 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33924&amp;copyownerid=57809</description>
-            <Point id="geom_75">
-                <coordinates>20.819441,41.12162,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_78">
-            <name>OIIBF 2014</name>
-            <description>Islamic Banking and Finance, Theoretical Development and Experiencing Realities
-from Apr 29, 2014 - Apr 29, 2014
-in Oxford, UK.
-
-CFP deadline: Apr 10, 2014 (Feb 10, 2014)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33922&amp;copyownerid=57808</description>
-            <Point id="geom_76">
-                <coordinates>-1.2577263,51.7520209,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_79">
-            <name>ISORC 2014</name>
-            <description>17th IEEE Symposium on Object/Component/Service-oriented Real-time Distributed Computing
-from Jun 10, 2014 - Jun 12, 2014
-in Reno, Nevada.
-
-CFP deadline: Nov 27, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33921&amp;copyownerid=619</description>
-            <Point id="geom_77">
-                <coordinates>-119.8138027,39.5296329,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_80">
-            <name>ITSC 2014</name>
-            <description>The 17th International IEEE Conference on Intelligent Transportation Systems
-from Oct 8, 2014 - Oct 11, 2014
-in Qingdao.
-
-CFP deadline: May 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33920&amp;copyownerid=57798</description>
-            <Point id="geom_78">
-                <coordinates>120.38264,36.067082,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_81">
-            <name>WSCD  2014</name>
-            <description>Workshop on Log-based Personalization
-from Feb 28, 2014 - Feb 28, 2014
-in New York City.
-
-CFP deadline: Dec 23, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33919&amp;copyownerid=320</description>
-            <Point id="geom_79">
-                <coordinates>-74.0059731,40.7143528,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_82">
-            <name>WASSA 2014</name>
-            <description>5th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis
-from Jun 27, 2014 - Jun 27, 2014
-in Baltimore.
-
-CFP deadline: Mar 21, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33918&amp;copyownerid=320</description>
-            <Point id="geom_80">
-                <coordinates>-76.6121893,39.2903848,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_83">
-            <name>OMSOPA 2014</name>
-            <description>Autobiographies and biographies about adoption. Narration and search for identity: genetic or cultural imperative?
-from Jul 23, 2014 - Jul 26, 2014
-in Bovino (Fg) Italy.
-
-CFP deadline: Mar 16, 2014 (May 13, 2014)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33912&amp;copyownerid=33032</description>
-            <Point id="geom_81">
-                <coordinates>15.3395299,41.2484542,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_84">
-            <name>WEBI  2014</name>
-            <description>3rd International Workshop on Web Intelligence
-from Apr 27, 2014 - Apr 27, 2014
-in Lisbon, Portugal.
-
-CFP deadline: Jan 20, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33911&amp;copyownerid=49222</description>
-            <Point id="geom_82">
-                <coordinates>-9.1500364,38.7252993,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_85">
-            <name>Institute for Organic Understanding 2014</name>
-            <description>Overdeveloped But Underexposed: Humankind's Predicament Viewed through an Artist's Lens
-from Oct 21, 2014 - Oct 25, 2014
-in Vancouver, British Columbia.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33910&amp;copyownerid=57791</description>
-            <Point id="geom_83">
-                <coordinates>-123.1139268,49.261226,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_86">
-            <name>ScilabTEC 2014</name>
-            <description>ScilabTEC 2014 - International Scilab Users Conference
-from May 15, 2014 - May 16, 2014
-in Paris, France.
-
-CFP deadline: Jan 17, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33909&amp;copyownerid=57792</description>
-            <Point id="geom_84">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_87">
-            <name>WIMS [multiple calls] 2014</name>
-            <description>WIMS' 14 [multiple calls]: 4th International Conference on Web Intelligence, Mining and Semantics
-from Jun 2, 2014 - Jun 4, 2014
-in Thessaloniki, Greece.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33908&amp;copyownerid=41099</description>
-            <Point id="geom_85">
-                <coordinates>22.9446064,40.6393495,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_88">
-            <name>ECEL 2014</name>
-            <description>European Conference on e-Learning
-from Oct 30, 2014 - Oct 31, 2014
-in Copenhagen.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33907&amp;copyownerid=8438</description>
-            <Point id="geom_86">
-                <coordinates>12.5683371,55.6760968,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_89">
-            <name>ICICKM 2014</name>
-            <description>International Conference on Intellectual Capital, Knowledge Management and Organisational Learning
-from Nov 6, 2014 - Nov 7, 2014
-in Cranfield.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33906&amp;copyownerid=8438</description>
-            <Point id="geom_87">
-                <coordinates>-0.609437,52.067105,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_90">
-            <name>IMEKO TC4 2014</name>
-            <description>20th IMEKO TC-4 International Symposium on 'Research on Electrical and Electronic Measurement for the Economic Upturn'
-from Sep 15, 2014 - Sep 17, 2014
-in Benevento, Italy.
-
-CFP deadline: Mar 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33905&amp;copyownerid=57770</description>
-            <Point id="geom_88">
-                <coordinates>14.7826208,41.1297613,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_91">
-            <name>WISTP 2014</name>
-            <description>8th Workshop in Information Security Theory and Practice (WISTP 2014)
-from Jun 23, 2014 - Jun 25, 2014
-in Heraklion, Greece.
-
-CFP deadline: Mar 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33904&amp;copyownerid=10253</description>
-            <Point id="geom_89">
-                <coordinates>25.1442126,35.3387352,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_92">
-            <name>MetroAerospace 2014</name>
-            <description>IEEE Workshop on Metrology for Aerospace
-from May 29, 2014 - May 30, 2014
-in Benevento, Italy.
-
-CFP deadline: Mar 9, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33903&amp;copyownerid=57770</description>
-            <Point id="geom_90">
-                <coordinates>14.7826208,41.1297613,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_93">
-            <name>ACS 2014</name>
-            <description>The 2014 FTRA International Conference on Advanced Computing and Services
-from Feb 19, 2014 - Feb 22, 2014
-in Jeju, Korea.
-
-CFP deadline: Dec 10, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33902&amp;copyownerid=46080</description>
-            <Point id="geom_91">
-                <coordinates>126.5311884,33.4996213,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_94">
-            <name>SEA 2014</name>
-            <description>SEA 2014 - The 2nd Special Session on SelfâExplaining Agents
-from Jun 4, 2014 - Jun 6, 2014
-in Salamanca, Spain.
-
-CFP deadline: Jan 20, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33901&amp;copyownerid=57769</description>
-            <Point id="geom_92">
-                <coordinates>-5.6635397,40.9701039,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_95">
-            <name>BPOE 2014</name>
-            <description>The Fourth workshop on Big Data Benchmarks, Performance Optimization, and Emerging Hardware
-from Mar 1, 2014 - Mar 1, 2014
-in Salt Lake City, Utah, USA.
-
-CFP deadline: Jan 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33897&amp;copyownerid=50853</description>
-            <Point id="geom_93">
-                <coordinates>-111.8910474,40.7607793,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_96">
-            <name>WCCIG 2013</name>
-            <description>INTERNATIONAL CONFERENCE ON WATER COOPERATION &amp; CONSERVATION FOR INCLUSIVE GROWTH
-from Dec 10, 2013 - Dec 11, 2013
-in PUNE.
-
-CFP deadline: Nov 27, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33895&amp;copyownerid=47898</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34726&amp;copyownerid=59126</description>
             <Point id="geom_94">
-                <coordinates>73.8567437,18.5204303,0.0</coordinates>
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_97">
-            <name>FAW 2014</name>
-            <description>The 8th International Frontiers of Algorithmics Workshop
-from Jun 28, 2014 - Jun 30, 2014
-in Zhangjiajie, China.
+            <name>ACE 2014</name>
+            <description>Advances in Control Engineering
+from Aug 22, 2014 - Aug 23, 2014
+in Istanbul / TURKEY.
 
-CFP deadline: Feb 1, 2014
+CFP deadline: Jun 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33893&amp;copyownerid=57759</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34725&amp;copyownerid=45926</description>
             <Point id="geom_95">
-                <coordinates>110.479191,29.117096,0.0</coordinates>
+                <coordinates>28.97696,41.00527,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_98">
-            <name>IEEE iCREATE 2014</name>
-            <description>IEEE International Conference on Robotics and Emerging Allied Technologies in Engineering
-from Apr 22, 2014 - Apr 24, 2014
-in Islamabad, Pakistan.
+            <name>EMAS 2014</name>
+            <description>The 2nd International Workshop on Engineering Multi-Agent Systems
+from May 5, 2014 - May 6, 2014
+in Paris, France (collocated with AAMAS'14).
 
-CFP deadline: Nov 30, 2013
+CFP deadline: Jan 22, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33892&amp;copyownerid=57755</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34724&amp;copyownerid=19831</description>
             <Point id="geom_96">
-                <coordinates>73.060547,33.718151,0.0</coordinates>
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_99">
-            <name>ASONAM 2014</name>
-            <description>Advances in Social Networks Analysis and Mining
-from Aug 17, 2014 - Aug 20, 2014
-in Beijing, China.
+            <name>S2G 2014</name>
+            <description>From Sound to Gesture
+from May 21, 2014 - May 23, 2014
+in Padua, Italy.
 
-CFP deadline: Apr 9, 2014
+CFP deadline: Jan 31, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33891&amp;copyownerid=57752</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34722&amp;copyownerid=59112</description>
             <Point id="geom_97">
-                <coordinates>116.407526,39.90403,0.0</coordinates>
+                <coordinates>11.8767611,45.4064349,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_100">
-            <name>ICREGA 2014</name>
-            <description>the 3rd International Conference on Renewable Energy: Generation and Applications
-from Mar 2, 2014 - Mar 5, 2014
-in Al Ain, United Arab Emirates.
+            <name>OpenSym 2014</name>
+            <description>The 10th International Symposium on Wikis and Open Collaboration (OpenSym &amp; WikiSym)
+from Aug 27, 2014 - Aug 29, 2014
+in Berlin, Germany.
 
-CFP deadline: Nov 30, 2013
+CFP deadline: Apr 20, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33886&amp;copyownerid=57747</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34721&amp;copyownerid=35474</description>
             <Point id="geom_98">
-                <coordinates>55.7447222,24.2075,0.0</coordinates>
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_101">
-            <name>ISS 2014</name>
-            <description>The International Joseph Alois Schumpeter Society 15th ISS Conference
-from Jul 27, 2014 - Jul 30, 2014
-in Jena, Germany.
+            <name>GPC 2014</name>
+            <description>Call for papers: Perspectives on Conflict Conference 2014
+from Jun 6, 2014 - Jun 6, 2014
+in Glasgow, Scotland.
 
-CFP deadline: Feb 28, 2014
+CFP deadline: Feb 7, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33884&amp;copyownerid=56141</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34719&amp;copyownerid=59103</description>
             <Point id="geom_99">
-                <coordinates>11.5892372,50.927054,0.0</coordinates>
+                <coordinates>-4.251806,55.864237,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_102">
-            <name>ELLTA - USM 2014</name>
-            <description>Leadership and Learning in the Asian Century
-from May 12, 2014 - May 14, 2014
-in Universiti Sains Malaysia, Malaysia.
+            <name>UTP 2014</name>
+            <description>Unifying Theories of Programming
+from May 12, 2014 - May 13, 2014
+in Singapore.
 
-CFP deadline: Dec 30, 2013
+CFP deadline: Jan 24, 2014 (Jan 17, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33883&amp;copyownerid=57738</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34718&amp;copyownerid=48563</description>
             <Point id="geom_100">
-                <coordinates>100.30112,5.354771,0.0</coordinates>
+                <coordinates>103.819836,1.352083,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_103">
-            <name>iacmc 2014</name>
-            <description>International arab conference on Mathematics and computations
-from Apr 23, 2014 - Apr 25, 2014
-in Zarqa University - Jordan.
+            <name>DAIS 2014</name>
+            <description>14th IFIP International Conference on Distributed Applications and Interoperable Systems
+from Jun 3, 2014 - Jun 6, 2014
+in Berlin, Germany.
 
-CFP deadline: Feb 1, 2014
+CFP deadline: Feb 7, 2014 (Feb 1, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33878&amp;copyownerid=57734</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34717&amp;copyownerid=58755</description>
             <Point id="geom_101">
-                <coordinates>36.1558982,32.0582234,0.0</coordinates>
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_104">
-            <name>SHAW 2014</name>
-            <description>5th Workshop on SoCs, Heterogeneous Architectures and Workloads
-from Feb 16, 2014 - Feb 16, 2014
-in Orlando, Florida, USA.
+            <name>COORDINATION 2014</name>
+            <description>16th International Conference on Coordination Models and Languages
+from Jun 3, 2014 - Jun 6, 2014
+in Berlin, Germany.
 
-CFP deadline: Dec 16, 2013
+CFP deadline: Feb 7, 2014 (Feb 1, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33877&amp;copyownerid=3537</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34716&amp;copyownerid=58755</description>
             <Point id="geom_102">
-                <coordinates>-81.3792365,28.5383355,0.0</coordinates>
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_105">
-            <name>EuCNC 2014</name>
-            <description>European Conference on Networks and Communications
-from Jun 23, 2014 - Jun 26, 2014
-in Bologna, Italy.
+            <name>FORTE 2014</name>
+            <description>34th IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems
+from Jun 3, 2014 - Jun 6, 2014
+in Berlin, Germany.
 
-CFP deadline: Feb 22, 2014
+CFP deadline: Feb 7, 2014 (Feb 1, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33870&amp;copyownerid=23184</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34715&amp;copyownerid=12946</description>
             <Point id="geom_103">
-                <coordinates>11.3426163,44.494887,0.0</coordinates>
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_106">
-            <name>HT 2014</name>
-            <description>25th ACM Conference on Hypertext and Social Media
-from Sep 1, 2014 - Sep 4, 2014
-in Santiago, Chile.
+            <name>DACS 2014</name>
+            <description>International Workshop on Design and Analysis of Control Systems
+from Jun 16, 2014 - Jun 18, 2014
+in Lisbon, Portugal.
 
-CFP deadline: Mar 21, 2014
+CFP deadline: Jan 28, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33869&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34714&amp;copyownerid=59095</description>
             <Point id="geom_104">
-                <coordinates>-70.641997,-33.4691199,0.0</coordinates>
+                <coordinates>-9.1500364,38.7252993,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_107">
-            <name>DNIS 2014</name>
-            <description>9th International Workshop on Databases in Networked Information Systems
-from Mar 24, 2014 - Mar 26, 2014
-in University of Aizu, Aizu-Wakamatsu, Japan.
+            <name>ACySe 2014</name>
+            <description>International Workshop on Agents and CyberSecurity
+from May 5, 2014 - May 6, 2014
+in Paris (France).
 
-CFP deadline: Dec 11, 2013
+CFP deadline: Jan 22, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33868&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34713&amp;copyownerid=59094</description>
             <Point id="geom_105">
-                <coordinates>139.938733,37.523797,0.0</coordinates>
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_108">
-            <name>CTS 2014</name>
-            <description>The 2014 International Conference on Collaboration Technologies and Systems
+            <name>IEEE CCS 2014</name>
+            <description>1st IEEE International Workshop on Cognitive Cellular Systems
+from Sep 2, 2014 - Sep 4, 2014
+in Rhine River, Germany.
+
+CFP deadline: Mar 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34711&amp;copyownerid=59088</description>
+            <Point id="geom_106">
+                <coordinates>7.2861712,50.4166116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>PCMD 2014</name>
+            <description>Pentaho Community Meeting Deutschland
+from Jan 30, 2014 - Jan 30, 2014
+in Frankfurt/Main, Germany.
+
+CFP deadline: Jan 6, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34710&amp;copyownerid=59084</description>
+            <Point id="geom_107">
+                <coordinates>8.6821267,50.1109221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>PIMRC 2014</name>
+            <description>IEEE 25th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
+from Sep 2, 2014 - Sep 5, 2014
+in Capital Hilton, Washington DC.
+
+CFP deadline: Apr 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34709&amp;copyownerid=54904</description>
+            <Point id="geom_108">
+                <coordinates>-76.9991425,38.8923341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>CBGA 2014</name>
+            <description>SS24. Signal processing and pattern recognition in geosciences: theory and practice
+from Sep 24, 2014 - Sep 26, 2014
+in Tirana, ALBANIA.
+
+CFP deadline: Mar 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34708&amp;copyownerid=42571</description>
+            <Point id="geom_109">
+                <coordinates>19.8318,41.33165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>SusTech 2014</name>
+            <description>2nd IEEE Conference on Technologies for Sustainability
+from Jul 24, 2014 - Jul 26, 2014
+in Portland, OR USA.
+
+CFP deadline: Mar 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34707&amp;copyownerid=59080</description>
+            <Point id="geom_110">
+                <coordinates>-122.6762071,45.5234515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>ICCD 2014</name>
+            <description>International Conference on Intelligent Computing, Communication &amp; Devices
+from Apr 18, 2014 - Apr 19, 2014
+in ITER, SOA University, Bhubaneswar.
+
+CFP deadline: Feb 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34706&amp;copyownerid=59077</description>
+            <Point id="geom_111">
+                <coordinates>85.8245398,20.2960587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>CSI-SE 2014</name>
+            <description>Crowdsourcing in Software Engineering
+from Jun 7, 2014 - Jun 7, 2014
+in India.
+
+CFP deadline: Jan 24, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34705&amp;copyownerid=30002</description>
+            <Point id="geom_112">
+                <coordinates>78.96288,20.593684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>ACSD 2014</name>
+            <description>International Conference on Application of Concurrency to System Design
+from Jun 25, 2014 - Jun 27, 2014
+in Tunis, Tunisia.
+
+CFP deadline: Jan 17, 2014 (Jan 10, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34699&amp;copyownerid=48205</description>
+            <Point id="geom_113">
+                <coordinates>10.16596,36.81881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>AIEM 2014</name>
+            <description>Workshop on Advances in Intelligent Environmental Monitoring
+from Sep 15, 2014 - Sep 17, 2014
+in Al-Qassim, Saudi Arabia.
+
+CFP deadline: May 22, 2014 (May 12, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34698&amp;copyownerid=35013</description>
+            <Point id="geom_114">
+                <coordinates>42.8637875,25.8274886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>HyperRealitIE 2014</name>
+            <description>Workshop on Hyperrealistic Intelligent Environments 2014
+from Jun 30, 2014 - Jul 1, 2014
+in Shanghai, China.
+
+CFP deadline: Apr 4, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34696&amp;copyownerid=58478</description>
+            <Point id="geom_115">
+                <coordinates>121.473701,31.230416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>SS4SI 2014</name>
+            <description>International Symposium on Service Systems for Social Innovation
+from Sep 7, 2014 - Sep 10, 2014
+in Warsaw, Poland.
+
+CFP deadline: Apr 11, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34695&amp;copyownerid=33147</description>
+            <Point id="geom_116">
+                <coordinates>21.0122287,52.2296756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>CIT 2014</name>
+            <description>The 14th IEEE International Conference on Computer and Information Technology
+from Sep 11, 2014 - Sep 13, 2014
+in Xi'an.
+
+CFP deadline: Apr 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34694&amp;copyownerid=31019</description>
+            <Point id="geom_117">
+                <coordinates>108.940175,34.341568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>TRUST 2014</name>
+            <description>1st International Workshop on Reproducible Research Methodologies and New Publication Models
+from Jun 12, 2014 - Jun 12, 2014
+in Edinburgh, UK.
+
+CFP deadline: Mar 14, 2014 (Mar 7, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34693&amp;copyownerid=2354</description>
+            <Point id="geom_118">
+                <coordinates>-3.188267,55.953252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>ROBOFEAST 2013</name>
+            <description>National Level Robotics Workshop on behalf of Indian Institute of Technology(Roorkee)
+from Jan 11, 2014 - Jan 12, 2014
+in Tiruchengode.
+
+CFP deadline: TBD
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34692&amp;copyownerid=59046</description>
+            <Point id="geom_119">
+                <coordinates>77.8944945,11.378476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>BigScholar 2014</name>
+            <description>The First WWW Workshop on Big Scholarly Data: Towards the Web of Scholars
+from Apr 8, 2014 - Apr 8, 2014
+in Seoul, Korea.
+
+CFP deadline: Jan 14, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34686&amp;copyownerid=8679</description>
+            <Point id="geom_120">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>AReS 2014</name>
+            <description>The 9th International Conference on Availability, Reliability and Security (AReS 2014)
+from Sep 8, 2014 - Sep 12, 2014
+in University of Fribourg, Switzerland.
+
+CFP deadline: Mar 7, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34685&amp;copyownerid=49587</description>
+            <Point id="geom_121">
+                <coordinates>7.146045,46.8123294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>A MOST 2014</name>
+            <description>10th Workshop on Advances in Model Based Testing
+from Apr 4, 2014 - Apr 4, 2014
+in ICST.
+
+CFP deadline: Jan 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34683&amp;copyownerid=30002</description>
+            <Point id="geom_122">
+                <coordinates>77.8951049,21.902925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>ICSSI 2014</name>
+            <description>2014 International Conference on Social Sciences and Innovations
+from Jul 19, 2014 - Jul 20, 2014
+in Madrid, Spain.
+
+CFP deadline: Apr 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34681&amp;copyownerid=13881</description>
+            <Point id="geom_123">
+                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>ICESM 2014</name>
+            <description>2014 International Conference on Economics, Society and Management
+from Jul 19, 2014 - Jul 20, 2014
+in Madrid, Spain.
+
+CFP deadline: Apr 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34680&amp;copyownerid=13881</description>
+            <Point id="geom_124">
+                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>ICVM 2014</name>
+            <description>2014 International Conference on Video and Media
+from Jul 19, 2014 - Jul 20, 2014
+in Madrid, Spain.
+
+CFP deadline: Apr 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34679&amp;copyownerid=13881</description>
+            <Point id="geom_125">
+                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Africacrypt 2014</name>
+            <description>International Conference on the Theory and Applications of Cryptology
+from May 28, 2014 - May 30, 2014
+in Marrakech.
+
+CFP deadline: Jan 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34678&amp;copyownerid=59028</description>
+            <Point id="geom_126">
+                <coordinates>-8.0,31.6333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>GameAI-SS-SETN 2014</name>
+            <description>Game AI Special Session of SETN-2014
+from Mar 5, 2015 - May 5, 2015
+in Ioannina, Greece.
+
+CFP deadline: Jan 13, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34676&amp;copyownerid=59027</description>
+            <Point id="geom_127">
+                <coordinates>20.8537466,39.6650288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Algotel 2014</name>
+            <description>16Ã¨mes Rencontres Francophones pour les Aspects Algorithmiques des TÃ©lÃ©communications
+from Jun 3, 2014 - Jun 6, 2014
+in Le-Bois-Plage-en-RÃ©, France.
+
+CFP deadline: Feb 7, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34674&amp;copyownerid=57946</description>
+            <Point id="geom_128">
+                <coordinates>-1.392017,46.186424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>OSACT 2014</name>
+            <description>Workshop on Free/Open-Source Arabic Corpora and Corpora Processing Tools
+from May 27, 2014 - May 27, 2014
+in Reykjavik (Iceland).
+
+CFP deadline: Feb 10, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34672&amp;copyownerid=43677</description>
+            <Point id="geom_129">
+                <coordinates>-21.89521,64.135338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>IDA 2014</name>
+            <description>The Thirteenth International Symposium on Intelligent Data Analysis
+from Oct 30, 2014 - Nov 1, 2014
+in Leuven, Belgium.
+
+CFP deadline: May 23, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34671&amp;copyownerid=17986</description>
+            <Point id="geom_130">
+                <coordinates>4.704328,50.877571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>SECOTS 2014</name>
+            <description>Fourth International Symposium on Security in Collaboration Technologies and Systems
 from May 19, 2014 - May 23, 2014
 in Minneapolis, Minnesota, USA.
 
 CFP deadline: Dec 30, 2013
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33867&amp;copyownerid=2</description>
-            <Point id="geom_106">
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34670&amp;copyownerid=59018</description>
+            <Point id="geom_131">
                 <coordinates>-93.26667,44.983334,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_109">
-            <name>TRANSACT 2014</name>
-            <description>9th Workshop on Transactional Computing
-from Mar 1, 2014 - Mar 2, 2014
-in Salt Lake City, UT, USA.
-
-CFP deadline: Dec 1, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33866&amp;copyownerid=2</description>
-            <Point id="geom_107">
-                <coordinates>-111.8910474,40.7607793,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_110">
-            <name>FMX 2014</name>
-            <description>Conference on Animation, Effects, Games and Transmedia
-from Apr 22, 2014 - Apr 25, 2014
+        <Placemark id="feat_134">
+            <name>RnDMgtConf 2014</name>
+            <description>The R&amp;D Management Conference 2014
+from Jun 3, 2014 - Jun 4, 2014
 in Stuttgart, Germany.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33865&amp;copyownerid=2</description>
-            <Point id="geom_108">
-                <coordinates>9.1817588,48.7754181,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_111">
-            <name>BICOB 2014</name>
-            <description>6th International Conference on Bioinformatics and Computational Biology Computational Biology
-from Mar 24, 2014 - Mar 26, 2014
-in Las Vegas, NV, USA.
-
-CFP deadline: Nov 30, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33864&amp;copyownerid=57724</description>
-            <Point id="geom_109">
-                <coordinates>-115.172816,36.114646,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_112">
-            <name>BEA 2014</name>
-            <description>The 9th Workshop on the Innovative Use of NLP for Building  Educational Applications (BEA9)
-from Jun 26, 2014 - Jun 26, 2014
-in Baltimore, MD, USA.
-
-CFP deadline: Mar 25, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33862&amp;copyownerid=320</description>
-            <Point id="geom_110">
-                <coordinates>-76.6121893,39.2903848,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_113">
-            <name>CLFL 2014</name>
-            <description>Third Workshop on Computational Linguistics for Literature
-from Apr 26, 2014 - Jun 27, 2014
-in Goteborg, Sweden.
-
-CFP deadline: Jan 23, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33861&amp;copyownerid=320</description>
-            <Point id="geom_111">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_114">
-            <name>Linux FAST Summit 2014</name>
-            <description>2014 USENIX Research in Linux File and Storage Technologies Summit
-from Feb 20, 2014 - Feb 20, 2014
-in Santa Clara, CA.
-
-CFP deadline: Jan 17, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33856&amp;copyownerid=9119</description>
-            <Point id="geom_112">
-                <coordinates>-121.9552356,37.3541079,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_115">
-            <name>STET 2014</name>
-            <description>First International Conference on Smart Technology-based Education and Training
-from Jun 18, 2014 - Jun 20, 2014
-in Crete, Greece.
-
-CFP deadline: Jan 27, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33854&amp;copyownerid=57703</description>
-            <Point id="geom_113">
-                <coordinates>24.8092691,35.240117,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_116">
-            <name>PLACES 2014</name>
-            <description>Programming Language Approaches to Concurrency and communication-cEntric Software
-from Apr 5, 2014 - Apr 13, 2014
-in Grenoble, France.
-
-CFP deadline: Dec 23, 2013 (Dec 16, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33853&amp;copyownerid=48563</description>
-            <Point id="geom_114">
-                <coordinates>5.724524,45.188529,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_117">
-            <name>visum 2014</name>
-            <description>visum 2014 : Summer School::VISion Understanding and Machine intelligence
-from Jul 3, 2014 - Jul 10, 2014
-in Porto, Portugal.
-
-CFP deadline: Mar 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33852&amp;copyownerid=5126</description>
-            <Point id="geom_115">
-                <coordinates>-8.6239254,41.1566892,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_118">
-            <name>NLDB 2014</name>
-            <description>Applications of Natural Language to Data Bases
-from Jun 18, 2014 - Jun 20, 2014
-in Montpellier, France.
 
 CFP deadline: Jan 20, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33848&amp;copyownerid=46866</description>
-            <Point id="geom_116">
-                <coordinates>3.876716,43.610769,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_119">
-            <name>ICCSM 2014</name>
-            <description>International Conference on Cloud Security Management
-from Oct 23, 2014 - Oct 24, 2014
-in Cranfield.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33847&amp;copyownerid=8438</description>
-            <Point id="geom_117">
-                <coordinates>-0.609437,52.067105,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_120">
-            <name>ISSASiM 2014</name>
-            <description>4th DEXA Workshop on Information Systems for Situation Awareness and Situation Management
-from Sep 1, 2014 - Sep 5, 2014
-in Munich, Germany.
-
-CFP deadline: Mar 31, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33846&amp;copyownerid=34801</description>
-            <Point id="geom_118">
-                <coordinates>11.5819806,48.1351253,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_121">
-            <name>Automotive-IUI Workshop 2014</name>
-            <description>Automotive-IUI Workshop
-from Feb 24, 2014 - Feb 24, 2014
-in Haifa, Israel.
-
-CFP deadline: Dec 10, 2013 (Dec 5, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33845&amp;copyownerid=47463</description>
-            <Point id="geom_119">
-                <coordinates>34.974338,32.830361,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_122">
-            <name>Sketch 2014</name>
-            <description>Sketch: Pen and Touch Recognition
-from Feb 24, 2014 - Feb 24, 2014
-in Haifa, israel.
-
-CFP deadline: Nov 22, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33844&amp;copyownerid=47463</description>
-            <Point id="geom_120">
-                <coordinates>34.974338,32.830361,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_123">
-            <name>IDGEI 2014</name>
-            <description>IDGEI 2014: 2nd International Workshop on Intelligent Digital Games for Empowerment and Inclusion
-from Feb 24, 2014 - Feb 24, 2014
-in Haifa, Israel.
-
-CFP deadline: Dec 4, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33843&amp;copyownerid=47463</description>
-            <Point id="geom_121">
-                <coordinates>34.974338,32.830361,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_124">
-            <name>SmartObjects 2014</name>
-            <description>SmartObjects: Third Workshop on Interacting with Smart Objects
-from Feb 24, 2014 - Feb 24, 2014
-in Haifa, Israel.
-
-CFP deadline: Dec 19, 2013 (Dec 5, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33842&amp;copyownerid=47463</description>
-            <Point id="geom_122">
-                <coordinates>34.974338,32.830361,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_125">
-            <name>ECGBL 2014</name>
-            <description>European Conference on Games-Based Learning
-from Oct 9, 2014 - Oct 10, 2014
-in Berlin.
-
-CFP deadline: Mar 20, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33841&amp;copyownerid=8438</description>
-            <Point id="geom_123">
-                <coordinates>13.404954,52.5200066,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_126">
-            <name>ICALT 2014</name>
-            <description>The 14th IEEE International Conference on Advanced Learning Technologies
-from Jul 7, 2014 - Jul 10, 2014
-in Athens, Greece.
-
-CFP deadline: Feb 1, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33839&amp;copyownerid=57645</description>
-            <Point id="geom_124">
-                <coordinates>23.7293097,37.9837155,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_127">
-            <name>PSD 2014</name>
-            <description>Privacy in Statistical Databases
-from Sep 17, 2014 - Sep 19, 2014
-in Eivissa, Balearic Islands.
-
-CFP deadline: May 11, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33836&amp;copyownerid=3190</description>
-            <Point id="geom_125">
-                <coordinates>1.428115,38.908951,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_128">
-            <name>ICPIE 2014</name>
-            <description>2014 3rd International Conference on Petroleum Industry and Energy
-from May 14, 2014 - May 16, 2014
-in Gdansk, Poland.
-
-CFP deadline: Dec 20, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33835&amp;copyownerid=13881</description>
-            <Point id="geom_126">
-                <coordinates>18.6466384,54.3520252,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_129">
-            <name>ICEST 2014</name>
-            <description>2014 5th International Conference on Environmental Science and Technology
-from May 14, 2014 - May 16, 2014
-in Gdansk, Poland.
-
-CFP deadline: Dec 20, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33834&amp;copyownerid=13881</description>
-            <Point id="geom_127">
-                <coordinates>18.6466384,54.3520252,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_130">
-            <name>ICBBT 2014</name>
-            <description>2014 6th International Conference on Bioinformatics and Biomedical Technology
-from May 14, 2014 - May 16, 2014
-in Gdansk, Poland.
-
-CFP deadline: Dec 20, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33831&amp;copyownerid=13881</description>
-            <Point id="geom_128">
-                <coordinates>18.6466384,54.3520252,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_131">
-            <name>ICNDC 2013</name>
-            <description>The Forth IEEE International Conference on Networking and Distributed Computing (ICNDC2013)
-from Dec 21, 2013 - Dec 24, 2013
-in Hong Kong.
-
-CFP deadline: Dec 1, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33824&amp;copyownerid=57667</description>
-            <Point id="geom_129">
-                <coordinates>114.109497,22.396428,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_132">
-            <name>LCTES 2014</name>
-            <description>ACM SIGPLAN conference on languages, compilers, and tools for embedded systems
-from Jun 12, 2014 - Jun 13, 2014
-in Edinburgh.
-
-CFP deadline: Jan 31, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33822&amp;copyownerid=602</description>
-            <Point id="geom_130">
-                <coordinates>-3.188267,55.953252,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_133">
-            <name>LibrePlanet 2014</name>
-            <description>LibrePlanet 2014: Free software, free society
-from Mar 22, 2014 - Mar 23, 2014
-in Cambride, MA.
-
-CFP deadline: Sep 22, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33821&amp;copyownerid=57664</description>
-            <Point id="geom_131">
-                <coordinates>-71.1097335,42.3736158,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_134">
-            <name>HyTra 2014</name>
-            <description>Third Workshop on Hybrid Approaches to Translation
-from Apr 27, 2014 - Apr 27, 2014
-in Gothenburg, Sweden.
-
-CFP deadline: Jan 23, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33820&amp;copyownerid=8142</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34667&amp;copyownerid=59015</description>
             <Point id="geom_132">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
+                <coordinates>9.1817588,48.7754181,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_135">
-            <name>EsPreSSE 2014</name>
-            <description>EsPreSSE - Special Session on Estimation and Prediction in Software and Systems Engineering @ Euromicro SEAA
-from Aug 27, 2014 - Aug 29, 2014
-in Verona, Italy.
+            <name>HIPS 2014</name>
+            <description>19th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+from May 19, 2014 - May 19, 2014
+in Phoenix.
 
-CFP deadline: Feb 20, 2014 (Feb 13, 2014)
+CFP deadline: Jan 14, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33819&amp;copyownerid=47412</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34665&amp;copyownerid=57650</description>
             <Point id="geom_133">
-                <coordinates>10.9916578,45.4383563,0.0</coordinates>
+                <coordinates>-112.0740373,33.4483771,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_136">
-            <name>TAISP 2014</name>
-            <description>Theory, Action, and Impact of Social Protest 2014
-from Mar 28, 2014 - Mar 29, 2014
-in Canterbury, Kent (UK).
+            <name>ICLSS 2014</name>
+            <description>5th International Conference on Lean Six Sigma
+from Jun 23, 2014 - Jun 24, 2014
+in Glasgow/ Edinburgh.
 
-CFP deadline: Feb 14, 2014
+CFP deadline: Jan 31, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33818&amp;copyownerid=56916</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34664&amp;copyownerid=59007</description>
             <Point id="geom_134">
-                <coordinates>1.0789089,51.280233,0.0</coordinates>
+                <coordinates>-4.177579,55.7608272,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_137">
-            <name>SEAA-SPPI 2014</name>
-            <description>Euromicro SEAA - SPPI Track
-from Aug 27, 2014 - Aug 29, 2014
-in Verona, Italy.
+            <name>MeTTeG 2014</name>
+            <description>8th International Conference on Methodologies, Technologies and Tools enabling e-Government
+from Sep 18, 2014 - Sep 19, 2014
+in Udine.
 
-CFP deadline: Feb 20, 2014 (Feb 13, 2014)
+CFP deadline: May 30, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33817&amp;copyownerid=47412</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34663&amp;copyownerid=59000</description>
             <Point id="geom_135">
-                <coordinates>10.9916578,45.4383563,0.0</coordinates>
+                <coordinates>13.2345794,46.0710668,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_138">
-            <name>OSDI 2014</name>
-            <description>11th USENIX Symposium on Operating Systems Design and Implementation
-from Oct 6, 2014 - Oct 8, 2014
-in Broomfield, CO, USA.
-
-CFP deadline: May 1, 2014 (Apr 24, 2014)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33816&amp;copyownerid=26747</description>
-            <Point id="geom_136">
-                <coordinates>-105.0866504,39.9205411,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_139">
-            <name>GPGPU 2014</name>
-            <description>Seventh Workshop on General Purpose Processing Using GPUs
-from Mar 1, 2014 - Mar 1, 2014
-in Salt Lake City, Utah.
-
-CFP deadline: Dec 20, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33815&amp;copyownerid=57650</description>
-            <Point id="geom_137">
-                <coordinates>-111.8910474,40.7607793,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_140">
-            <name>MobiSocial 2014</name>
-            <description>The 2nd International Workshop on Mobile Data Management, Mining, and Computing on Social Networks
-from May 13, 2014 - May 13, 2014
-in Tainan, Taiwan.
-
-CFP deadline: Jan 25, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33814&amp;copyownerid=45201</description>
-            <Point id="geom_138">
-                <coordinates>120.2512728,23.1416985,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_141">
-            <name>WI&amp;C'14</name>
-            <description>WEB INTELLIGENCE &amp; COMMUNITIES (WI&amp;C'14) @WWW Conference, Seoul
-from Apr 8, 2014 - Apr 8, 2014
-in Seoul.
-
-CFP deadline: Jan 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33813&amp;copyownerid=57646</description>
-            <Point id="geom_139">
-                <coordinates>126.9779692,37.566535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_142">
-            <name>WNC3  2014</name>
-            <description>2014 WNC3 International Workshop on Wireless Networks: Communication, Cooperation and Competition
-from May 16, 2014 - May 16, 2014
-in Hammamet, Tunisia.
-
-CFP deadline: Jan 19, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33811&amp;copyownerid=57642</description>
-            <Point id="geom_140">
-                <coordinates>10.6166667,36.4,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_143">
-            <name>CICLing 2014</name>
-            <description>15th International Conference on Intelligent Text Processing and Computational Linguistics
-from Apr 6, 2014 - Apr 12, 2014
-in Kathmandu, Nepal.
-
-CFP deadline: Jan 7, 2014 (Dec 31, 2013)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33810&amp;copyownerid=320</description>
-            <Point id="geom_141">
-                <coordinates>85.3333333,27.7,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_144">
-            <name>SETTA 2014</name>
-            <description>Symposium on Dependable Software Engineering: Theories, Tools and Applications
-from Aug 14, 2014 - Aug 17, 2014
-in Nanjing, China.
-
-CFP deadline: Feb 15, 2014 (Feb 8, 2014)
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33801&amp;copyownerid=13690</description>
-            <Point id="geom_142">
-                <coordinates>118.796877,32.060255,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_145">
-            <name>SPSS 2014</name>
-            <description>International Conference on Science and Practice of Strength Sports
-from Jun 19, 2014 - Jun 22, 2014
-in Twickenham, London.
-
-CFP deadline: Mar 7, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33800&amp;copyownerid=57637</description>
-            <Point id="geom_143">
-                <coordinates>-0.1198244,51.5112139,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_146">
-            <name>CSIT 2014</name>
-            <description>The 6th International Conference of Computer Science &amp; Information Technology
-from Mar 26, 2014 - Mar 27, 2014
-in Amman- Jordan.
-
-CFP deadline: Dec 15, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33799&amp;copyownerid=903</description>
-            <Point id="geom_144">
-                <coordinates>35.9456951,31.9565783,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_147">
-            <name>SMART 2014</name>
-            <description>The Third International Conference on Smart Systems, Devices and Technologies
-from Jul 20, 2014 - Jul 24, 2014
-in Paris, France.
-
-CFP deadline: Feb 28, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33794&amp;copyownerid=52657</description>
-            <Point id="geom_145">
-                <coordinates>2.3522219,48.856614,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_148">
-            <name>ICCCI 2014</name>
-            <description>International Conference on Computational Collective Intelligence Technologies and Applications 2014
-from Sep 24, 2014 - Sep 26, 2014
-in Seoul, Korea.
-
-CFP deadline: Mar 25, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33792&amp;copyownerid=57618</description>
-            <Point id="geom_146">
-                <coordinates>126.9779692,37.566535,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_149">
-            <name>Interaccion 2014</name>
-            <description>International Conference INTERACCION 2014
-from Sep 10, 2014 - Sep 12, 2014
-in Tenerife. Spain.
-
-CFP deadline: Mar 24, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33787&amp;copyownerid=57607</description>
-            <Point id="geom_147">
-                <coordinates>-16.6291304,28.2915637,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_150">
-            <name>CloudDP 2014</name>
-            <description>Fourth International Workshop on Cloud Data and Platforms
-from Apr 13, 2014 - Apr 13, 2014
-in Amsterdam, the Netherlands.
-
-CFP deadline: Jan 31, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33786&amp;copyownerid=15464</description>
-            <Point id="geom_148">
-                <coordinates>4.8951679,52.3702157,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_151">
-            <name>NOMS - Privacy Issue -  2014</name>
-            <description>NOMS 2014 - Special Session on Privacy, Trust, Regulation, and Legal Issues
-from May 5, 2014 - May 5, 2014
-in Krakow, Poland.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33785&amp;copyownerid=57605</description>
-            <Point id="geom_149">
-                <coordinates>19.9449799,50.0646501,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_152">
-            <name>ITME 2014</name>
-            <description>The 2014 International Conference on Information Technology in Medicine and Education
-from Jul 7, 2014 - Jul 10, 2014
-in Jeju, Korea.
-
-CFP deadline: Jan 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33784&amp;copyownerid=46080</description>
-            <Point id="geom_150">
-                <coordinates>126.5311884,33.4996213,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_153">
-            <name>ICAS 2014</name>
-            <description>International Conference on Analytics Driven Solutions
-from Sep 29, 2014 - Sep 30, 2014
-in Ottawa.
-
-CFP deadline: TBD
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33783&amp;copyownerid=8438</description>
-            <Point id="geom_151">
-                <coordinates>-75.6971931,45.4215296,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_154">
-            <name>ICITEC 2013</name>
-            <description>2013 International Conference on Information Technology and Electronic Commerce
-from Dec 28, 2013 - Dec 29, 2013
-in Harbin, China.
-
-CFP deadline: Nov 10, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33781&amp;copyownerid=54904</description>
-            <Point id="geom_152">
-                <coordinates>126.53626,45.80227,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_155">
-            <name>Logica 2014</name>
-            <description>Logica 2014
-from Jun 16, 2014 - Jun 20, 2014
-in Hejnice, Czech Republic.
-
-CFP deadline: Feb 15, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33780&amp;copyownerid=57598</description>
-            <Point id="geom_153">
-                <coordinates>15.1816855,50.877201,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_156">
-            <name>HaCaT 2014</name>
-            <description>Human in the Loop: 1st Workshop on Humans and Computer-asisted Translation
-from Apr 26, 2014 - Apr 26, 2014
-in Gothenburg, Sweden.
-
-CFP deadline: Jan 23, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33779&amp;copyownerid=57594</description>
-            <Point id="geom_154">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_157">
-            <name>ELNANO 2014</name>
-            <description>IEEE 34th International Conference on Electronics and Nanotechnology
-from Apr 15, 2014 - Apr 18, 2014
-in Ukraine, Kyiv.
-
-CFP deadline: Dec 15, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33777&amp;copyownerid=57591</description>
-            <Point id="geom_155">
-                <coordinates>30.5234,50.4501,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_158">
-            <name>ICICIP 2014</name>
-            <description>5th International Conference on Intelligent Control and Information Processing
-from Aug 18, 2014 - Aug 20, 2014
+            <name>DASC 2014</name>
+            <description>The 12th IEEE International Conference on Dependable, Autonomic and Secure Computing
+from Aug 24, 2014 - Aug 27, 2014
 in Dalian, China.
 
-CFP deadline: Mar 15, 2014
+CFP deadline: Apr 20, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33776&amp;copyownerid=57590</description>
-            <Point id="geom_156">
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34662&amp;copyownerid=58993</description>
+            <Point id="geom_136">
                 <coordinates>121.614682,38.914003,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_159">
-            <name>ISNN 2014</name>
-            <description>11th International Symposium on Neural Networks
-from Nov 28, 2014 - Dec 1, 2014
-in Hong Kong &amp; Macao.
+        <Placemark id="feat_139">
+            <name>Gamification 2014</name>
+            <description>Holistic Perspectives in Gamification for Clinical Practice
+from Jan 1, 2014 - Oct 30, 2014
+in Prague.
 
-CFP deadline: Jul 1, 2014
+CFP deadline: Jun 30, 2014 (Jan 30, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33775&amp;copyownerid=57590</description>
-            <Point id="geom_157">
-                <coordinates>114.151629,22.289047,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34661&amp;copyownerid=51935</description>
+            <Point id="geom_137">
+                <coordinates>14.4378005,50.0755381,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_160">
-            <name>DATICS-IS3C 2014</name>
-            <description>DATICS Workshop at the 2014 International Symposium on Computer, Consumer and Control
-from Jun 10, 2014 - Jun 12, 2014
-in Taichung City, Taiwan.
+        <Placemark id="feat_140">
+            <name>MSDM 2014</name>
+            <description>Meeting on Statistics and Data Mining
+from Mar 13, 2014 - Mar 14, 2014
+in Jerba, Tunisia.
 
-CFP deadline: Jan 1, 2014
+CFP deadline: Jan 12, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33774&amp;copyownerid=44262</description>
-            <Point id="geom_158">
-                <coordinates>120.9417368,24.2332076,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34660&amp;copyownerid=44404</description>
+            <Point id="geom_138">
+                <coordinates>10.8451467,33.8075978,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_161">
-            <name>ICT 2014</name>
-            <description>The 2014 International Conference on Information and Communications Technologies
-from May 16, 2014 - May 18, 2014
-in Nanjing, China.
+        <Placemark id="feat_141">
+            <name>PSTI 2014</name>
+            <description>Fifth International Workshop on Parallel Software Tools and Tool Infrastructures
+from Sep 9, 2014 - Sep 12, 2014
+in Minneapolis, MN, USA.
 
-CFP deadline: Mar 14, 2014
+CFP deadline: Apr 20, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33771&amp;copyownerid=21605</description>
-            <Point id="geom_159">
-                <coordinates>118.796877,32.060255,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34659&amp;copyownerid=8209</description>
+            <Point id="geom_139">
+                <coordinates>-93.26667,44.983334,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_162">
-            <name>MSR 2014</name>
-            <description>11st Working Conference on Mining Software Repositories
-from May 31, 2013 - Jun 1, 2013
-in Hyderabad, India.
+        <Placemark id="feat_142">
+            <name>DCPerf 2014</name>
+            <description>Workshop on Data Center Performance
+from Jun 30, 2014 - Jul 3, 2014
+in Madrid, Spain.
 
-CFP deadline: Feb 7, 2014 (Jan 31, 2014)
+CFP deadline: Jan 24, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33768&amp;copyownerid=7812</description>
-            <Point id="geom_160">
-                <coordinates>78.486671,17.385044,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34657&amp;copyownerid=34306</description>
+            <Point id="geom_140">
+                <coordinates>-3.7037902,40.4167754,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_163">
-            <name>ERA-ICPC 2014</name>
-            <description>Early Research Achievement Track @ IEEE International Conference on Program Comprehension
-from Jun 3, 2014 - Jun 4, 2014
-in Hyderabad, India.
+        <Placemark id="feat_143">
+            <name>TGC 2014</name>
+            <description>9th Symposium on Trustworthy Global Computing
+from Sep 5, 2014 - Sep 6, 2014
+in Rome (Italy).
 
-CFP deadline: Feb 14, 2014
+CFP deadline: May 9, 2014 (May 2, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33767&amp;copyownerid=7812</description>
-            <Point id="geom_161">
-                <coordinates>78.486671,17.385044,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34656&amp;copyownerid=7698</description>
+            <Point id="geom_141">
+                <coordinates>12.4825199,41.8929163,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_164">
-            <name>DFRWS 2014</name>
-            <description>Digital Forensics Research Conference
-from Aug 3, 2014 - Aug 6, 2014
-in Denver, CO, USA.
+        <Placemark id="feat_144">
+            <name>AGI 2014</name>
+            <description>Artificial General Intelligence
+from Aug 1, 2014 - Aug 4, 2014
+in Quebec City, Canada.
 
-CFP deadline: Feb 13, 2014
+CFP deadline: Mar 15, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33766&amp;copyownerid=57574</description>
-            <Point id="geom_162">
-                <coordinates>-104.9847179,39.737567,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34655&amp;copyownerid=24266</description>
+            <Point id="geom_142">
+                <coordinates>-71.242796,46.8032826,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_165">
-            <name>Industry-ICPC 2014</name>
-            <description>Industry Track @ 22nd International Conference on Program Comprehension
-from Jun 3, 2014 - Jun 4, 2014
-in Hyderabad, India.
+        <Placemark id="feat_145">
+            <name>VidEv  2014</name>
+            <description>CFP - 3rd IEEE Workshop on Video Everywhere
+from Jun 16, 2014 - Jun 16, 2014
+in Sydney, Australia.
 
-CFP deadline: Feb 14, 2014
+CFP deadline: Mar 7, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33765&amp;copyownerid=7812</description>
-            <Point id="geom_163">
-                <coordinates>78.486671,17.385044,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34654&amp;copyownerid=10743</description>
+            <Point id="geom_143">
+                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_166">
-            <name>SDWN-IWCMC 2014</name>
-            <description>IWCMC 2014 Software Defined Wireless Network (SDWN) Workshop
-from Aug 4, 2014 - Aug 8, 2014
-in Hilton Nicosia, Cyprus.
+        <Placemark id="feat_146">
+            <name>ICISCNS 2014</name>
+            <description>International Conference on Information Systems and Communication Network Systems
+from Apr 11, 2014 - Apr 12, 2014
+in Hangzhou,China.
 
-CFP deadline: Dec 15, 2013
+CFP deadline: Jan 10, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33764&amp;copyownerid=40075</description>
-            <Point id="geom_164">
-                <coordinates>33.3666667,35.1666667,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34653&amp;copyownerid=52763</description>
+            <Point id="geom_144">
+                <coordinates>120.15507,30.274085,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_167">
-            <name>WebSci workshops 2014</name>
-            <description>ACM Web Science 2014 Conference Call for Workshops
-from Jun 23, 2014 - Jun 23, 2014
-in Bloomington.
+        <Placemark id="feat_147">
+            <name>IWBE 2014</name>
+            <description>International Workshop on Biomedical Engineering and Bioinformatics
+from Aug 29, 2014 - Aug 30, 2014
+in Istanbul / TURKEY.
+
+CFP deadline: Jun 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34652&amp;copyownerid=45926</description>
+            <Point id="geom_145">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>FedCSIS 2014</name>
+            <description>Federated Conference on Computer Science and Information Systems
+from Sep 7, 2014 - Sep 10, 2014
+in Warsaw, Poland.
+
+CFP deadline: Apr 11, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34651&amp;copyownerid=58972</description>
+            <Point id="geom_146">
+                <coordinates>21.0122287,52.2296756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>CBSE 2014</name>
+            <description>The 17th International ACM Sigsoft Symposium  on Component-Based Software Engineering
+from Jun 30, 2014 - Jul 4, 2014
+in Lille, France.
+
+CFP deadline: Feb 12, 2014 (Feb 5, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34650&amp;copyownerid=6327</description>
+            <Point id="geom_147">
+                <coordinates>3.057256,50.62925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>ECSA  2014</name>
+            <description>ECSA 2014 - 8th European Conference on Software Architecture - CFP
+from Aug 25, 2014 - Aug 29, 2014
+in Vienna (Austria).
+
+CFP deadline: Apr 6, 2014 (Mar 30, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34649&amp;copyownerid=58961</description>
+            <Point id="geom_148">
+                <coordinates>16.3738189,48.2081743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>COIL Conference 2014</name>
+            <description>6th COIL Conference
+from Mar 20, 2014 - Mar 21, 2014
+in New York, New York.
 
 CFP deadline: Jan 17, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33762&amp;copyownerid=57570</description>
-            <Point id="geom_165">
-                <coordinates>-86.5263857,39.165325,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34648&amp;copyownerid=47266</description>
+            <Point id="geom_149">
+                <coordinates>-74.0059731,40.7143528,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_168">
-            <name>PERSUASIVE 2014</name>
-            <description>The 9th International Conference on Persuasive Technology
-from May 21, 2014 - May 23, 2014
-in Padua, Italy.
+        <Placemark id="feat_152">
+            <name>ECMLPKDD 2014</name>
+            <description>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+from Sep 15, 2014 - Sep 19, 2014
+in Nancy, France.
 
-CFP deadline: Nov 29, 2013
+CFP deadline: Apr 16, 2014 (Apr 12, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33761&amp;copyownerid=31997</description>
-            <Point id="geom_166">
-                <coordinates>11.8767611,45.4064349,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34647&amp;copyownerid=27244</description>
+            <Point id="geom_150">
+                <coordinates>6.184417,48.692054,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_169">
-            <name>SPR 2014</name>
-            <description>Society for Psychotherapy Research 45th Annual International Meeting - 25â28 June 2014, Copenhagen, Denmark
-from Jun 25, 2014 - Jun 28, 2014
-in Copenhagen, Denmark.
-
-CFP deadline: Dec 1, 2013
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33760&amp;copyownerid=57556</description>
-            <Point id="geom_167">
-                <coordinates>12.5683371,55.6760968,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_170">
-            <name>ICCC 2014</name>
-            <description>5th International Conference on Computational Creativity
-from Jun 10, 2014 - Jun 13, 2014
-in Ljubljana, Slovenia.
+        <Placemark id="feat_153">
+            <name>CercleS 2014</name>
+            <description>2014 CercleS Conference Language Centres in Higher Education: Exploring and Shaping Plurilingual Profiles and Practices
+from Sep 4, 2014 - Sep 6, 2014
+in University of Fribourg.
 
 CFP deadline: Jan 31, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33759&amp;copyownerid=38925</description>
-            <Point id="geom_168">
-                <coordinates>14.5080702,46.0564509,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34646&amp;copyownerid=58957</description>
+            <Point id="geom_151">
+                <coordinates>7.146045,46.8123294,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_171">
-            <name>OPGE 2014</name>
-            <description>Organizing for the post-growth economy
-from May 8, 2014 - May 9, 2014
-in Copenhagen, Denmark.
+        <Placemark id="feat_154">
+            <name>ITC 2014</name>
+            <description>International Teletraffic Congress (ITC-26)
+from Sep 9, 2014 - Sep 11, 2014
+in Karlskrona, Sweden.
 
-CFP deadline: Jan 31, 2014
+CFP deadline: Mar 8, 2014 (Mar 1, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33758&amp;copyownerid=56141</description>
-            <Point id="geom_169">
-                <coordinates>12.5683371,55.6760968,0.0</coordinates>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34645&amp;copyownerid=58955</description>
+            <Point id="geom_152">
+                <coordinates>15.5869,56.161224,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_172">
-            <name>SEE SDEWES Ohrid  2014</name>
-            <description>The 1st South East European Conference on Sustainable Development of Energy, Water and Environment Systems
-from Jun 29, 2014 - Jul 4, 2014
-in Ohrid.
+        <Placemark id="feat_155">
+            <name>SAS 2014</name>
+            <description>21st International Static Analysis Symposium
+from Sep 11, 2014 - Sep 13, 2014
+in Munich, Germany.
+
+CFP deadline: Mar 14, 2014 (Mar 7, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34644&amp;copyownerid=48563</description>
+            <Point id="geom_153">
+                <coordinates>11.5819806,48.1351253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>1st IAPSS WC 2014</name>
+            <description>Call for Papers for the 1st IAPSS World Congress
+from Mar 31, 2014 - Apr 3, 2014
+in Thessaloniki, Greece.
+
+CFP deadline: Dec 29, 2013
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34643&amp;copyownerid=25357</description>
+            <Point id="geom_154">
+                <coordinates>22.9446064,40.6393495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>MECO 2014</name>
+            <description>3rd Mediterranean Conference on Embedded Computing
+from Jun 15, 2014 - Jun 19, 2014
+in Budva, Montenegro.
+
+CFP deadline: Feb 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34642&amp;copyownerid=33035</description>
+            <Point id="geom_155">
+                <coordinates>18.8425,42.2880556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>BalkanCryptSec 2014</name>
+            <description>The 1st edition of the annual International Conference on Cryptography and Information Security in Balkans (BalkanCryptSec 2014)
+from Oct 16, 2014 - Oct 17, 2014
+in Istanbul, Turkey.
+
+CFP deadline: Aug 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34638&amp;copyownerid=8337</description>
+            <Point id="geom_156">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>SAMOS 2014</name>
+            <description>International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS XIV)
+from Jul 14, 2014 - Jul 17, 2014
+in Samos, Greece.
+
+CFP deadline: Feb 14, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34637&amp;copyownerid=20003</description>
+            <Point id="geom_157">
+                <coordinates>26.8203511,37.7432146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>CloudCom 2014</name>
+            <description>The 2014 IEEE International Conference on Cloud Computing Technology and Science
+from Dec 15, 2014 - Dec 18, 2014
+in Singapore.
+
+CFP deadline: Jul 31, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34632&amp;copyownerid=58936</description>
+            <Point id="geom_158">
+                <coordinates>103.819836,1.352083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>EMSA 2014</name>
+            <description>Third International Conference on Embedded Systems and Applications
+from Mar 7, 2014 - Mar 8, 2014
+in Chennai,India.
+
+CFP deadline: Jan 6, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34631&amp;copyownerid=46167</description>
+            <Point id="geom_159">
+                <coordinates>80.2508246,13.0524139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>SAPIENCE 2014</name>
+            <description>Intenational Conference on Security and Authentication
+from Feb 27, 2014 - Feb 28, 2014
+in Cochin,India.
+
+CFP deadline: Dec 31, 2013
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34630&amp;copyownerid=58930</description>
+            <Point id="geom_160">
+                <coordinates>76.2673041,9.9312328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>AES 2014</name>
+            <description>Advances in Electromagnetic Science
+from Aug 29, 2014 - Aug 30, 2014
+in Istanbul / TURKEY.
+
+CFP deadline: Jun 20, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34628&amp;copyownerid=45926</description>
+            <Point id="geom_161">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>e-Skills 2014</name>
+            <description>e-Skills 2014 Conference [South Africa] Collaborations, Service Delivery, Innovation, Technology, and Education
+from Nov 17, 2014 - Nov 21, 2014
+in Cape Town, South Africa.
+
+CFP deadline: Apr 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34627&amp;copyownerid=58919</description>
+            <Point id="geom_162">
+                <coordinates>18.4240553,-33.9248685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>NOC 2014</name>
+            <description>19th European Conference on Network and Optical Communications
+from Jun 4, 2014 - Jun 6, 2014
+in Milan, Italy.
+
+CFP deadline: Jan 27, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34624&amp;copyownerid=58912</description>
+            <Point id="geom_163">
+                <coordinates>9.186516,45.4654542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>IWSM Mensura 2014</name>
+            <description>International Workshop on Software Measurement
+from Oct 6, 2014 - Oct 8, 2014
+in Rotterdam.
+
+CFP deadline: Mar 9, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34622&amp;copyownerid=58905</description>
+            <Point id="geom_164">
+                <coordinates>4.481776,51.924216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>ATC 2014</name>
+            <description>The International Conference on Advanced Technologies for Communications 2014
+from Oct 15, 2014 - Oct 17, 2014
+in Hanoi, Vietnam.
 
 CFP deadline: Apr 30, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33757&amp;copyownerid=56822</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34621&amp;copyownerid=47165</description>
+            <Point id="geom_165">
+                <coordinates>105.85,21.0333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>IEC 2014</name>
+            <description>The 10th International Energy Conference
+from Aug 26, 2014 - Aug 27, 2014
+in Iran.
+
+CFP deadline: May 21, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34620&amp;copyownerid=33334</description>
+            <Point id="geom_166">
+                <coordinates>53.688046,32.427908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>MEDES 2014</name>
+            <description>The 6th International ACM Conference on  Management of Emergent Digital Ecosystems
+from Sep 15, 2014 - Sep 17, 2014
+in Buraidah-Al Qassim-Saudi Arabia.
+
+CFP deadline: May 12, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34618&amp;copyownerid=58896</description>
+            <Point id="geom_167">
+                <coordinates>43.9666667,26.3333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>IMC 2014</name>
+            <description>Internet Measurement Conference
+from Nov 5, 2014 - Nov 7, 2014
+in Vancouver, BC, Canada.
+
+CFP deadline: May 8, 2014 (May 1, 2014)
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34617&amp;copyownerid=2</description>
+            <Point id="geom_168">
+                <coordinates>-123.1139268,49.261226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>ISPDC 2014</name>
+            <description>IEEE - 13th International Symposium on Parallel and Distributed Computing
+from Jun 24, 2014 - Jun 27, 2014
+in Marseille (France)-Porquerolles Island.
+
+CFP deadline: Mar 1, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34615&amp;copyownerid=58882</description>
+            <Point id="geom_169">
+                <coordinates>6.2216678,43.0010171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>PERFIK 2014</name>
+            <description>National Physics Conference 2014
+from Nov 18, 2014 - Nov 19, 2014
+in Kuala Lumpur, Malaysia.
+
+CFP deadline: Jul 15, 2014
+
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34614&amp;copyownerid=58879</description>
             <Point id="geom_170">
-                <coordinates>20.819441,41.12162,0.0</coordinates>
+                <coordinates>101.686855,3.139003,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_173">
-            <name>Louhi  2014</name>
-            <description>EACL 2014 Workshop - The Fifth International Workshop on Health Text  Mining and Information Analysis
-from Apr 27, 2014 - Apr 27, 2014
-in Gothenburg, Sweden.
+            <name>MEDI 2014</name>
+            <description>4th INTERNATIONAL CONFERENCE ON MODEL &amp; DATA ENGINEERING
+from Sep 24, 2014 - Sep 26, 2014
+in Larnaca, Cyprus.
 
-CFP deadline: Jan 23, 2014
+CFP deadline: Apr 21, 2014 (Apr 14, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33756&amp;copyownerid=320</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34613&amp;copyownerid=49757</description>
             <Point id="geom_171">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
+                <coordinates>33.6333333,34.9166667,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_174">
-            <name>SGP 2014</name>
-            <description>Eurographics Symposium on Geometry Processing
-from Jul 9, 2014 - Jul 11, 2014
-in Cardiff, United Kingdom.
+            <name>ICECCS 2014</name>
+            <description>ICECCS 2014: IEEE International Conference on Engineering of Complex Computer Systems
+from Aug 4, 2014 - Aug 7, 2014
+in Tianjin, China.
 
-CFP deadline: Apr 15, 2014 (Apr 10, 2014)
+CFP deadline: Feb 28, 2014 (Feb 14, 2014)
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33754&amp;copyownerid=57324</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34611&amp;copyownerid=58881</description>
             <Point id="geom_172">
-                <coordinates>-3.17909,51.481581,0.0</coordinates>
+                <coordinates>117.200983,39.084158,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_175">
-            <name>GMP 2014</name>
-            <description>Geometric Modeling and Processing
-from Jun 29, 2014 - Jul 1, 2014
+            <name>ICASS 2014</name>
+            <description>2014 4th International Conference on Applied Social Science
+from Mar 20, 2014 - Mar 21, 2014
 in Singapore.
 
-CFP deadline: Dec 8, 2013 (Dec 1, 2013)
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33753&amp;copyownerid=57324</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34609&amp;copyownerid=5186</description>
             <Point id="geom_173">
                 <coordinates>103.819836,1.352083,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_176">
-            <name>SYSINT-SHM 2014</name>
-            <description>SYSINT-SHM: Structural Health Monitoring Embedded Symposium SysInt 2014
-from Jul 2, 2014 - Jul 4, 2014
-in Bremen, Germany.
+            <name>ICEEE 2014</name>
+            <description>2014 International Conference on Electrical and Electronics Engineering
+from Jan 20, 2014 - Jan 21, 2014
+in Miami,FL, USA..
 
-CFP deadline: Feb 1, 2014 (Dec 6, 2013)
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33752&amp;copyownerid=51949</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34608&amp;copyownerid=5186</description>
             <Point id="geom_174">
-                <coordinates>8.8016937,53.0792962,0.0</coordinates>
+                <coordinates>-80.2264393,25.7889689,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_177">
-            <name>DMC 2014</name>
-            <description>International Workshop on Data Management in the Cloud
-from Mar 31, 2014 - Mar 31, 2014
-in Chicago, IL, United States of America.
+            <name>ISECS 2014</name>
+            <description>2014 International Conference on Electronics, Circuits, and Systems
+from Jan 23, 2014 - Jan 24, 2014
+in Shenzhen, China.
 
-CFP deadline: Dec 7, 2013
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33750&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34606&amp;copyownerid=5186</description>
             <Point id="geom_175">
-                <coordinates>-87.6297982,41.8781136,0.0</coordinates>
+                <coordinates>114.057868,22.543099,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_178">
-            <name>ADC 2014</name>
-            <description>The 25th Australasian Database Conference
-from Jul 14, 2014 - Jul 16, 2014
-in Brisbane, Australia.
+            <name>ICCE 2014</name>
+            <description>2014 International Conference on Control Engineering
+from Feb 9, 2014 - Feb 10, 2014
+in Singapore.
 
-CFP deadline: Jan 21, 2014 (Jan 14, 2014)
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33749&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34605&amp;copyownerid=5186</description>
             <Point id="geom_176">
-                <coordinates>153.0234489,-27.4710107,0.0</coordinates>
+                <coordinates>103.819836,1.352083,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_179">
-            <name>RACS 2014</name>
-            <description>International Conference on Research in Adaptive and Convergent Systems
-from Oct 5, 2014 - Oct 8, 2014
-in Towson, MD, USA.
+            <name>PMSS 2014</name>
+            <description>2014 2nd International Conference on Psychology,Management and Social Science
+from Jan 23, 2014 - Jan 24, 2014
+in Shenzhen, China.
 
-CFP deadline: Mar 31, 2014
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33748&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34604&amp;copyownerid=5186</description>
             <Point id="geom_177">
-                <coordinates>-76.6019125,39.4014955,0.0</coordinates>
+                <coordinates>114.057868,22.543099,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_180">
-            <name>HPG 2014</name>
-            <description>High Performance Graphics
-from Jun 23, 2014 - Jun 25, 2014
-in Lyon, France.
+            <name>MEMS-NAO 2014</name>
+            <description>2014 International Conference on MEMS and Nanotechnology
+from Jan 23, 2014 - Jan 24, 2014
+in Shenzhen,China.
 
-CFP deadline: TBD
+CFP deadline: Jan 1, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33747&amp;copyownerid=2</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34603&amp;copyownerid=5186</description>
             <Point id="geom_178">
-                <coordinates>4.835659,45.764043,0.0</coordinates>
+                <coordinates>114.057868,22.543099,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_181">
-            <name>ICUAS  2014</name>
-            <description>INTERNATIONAL CONFERENCE ON UNMANNED AIRCRAFT SYSTEMS
-from May 27, 2014 - May 30, 2014
-in Orlando, FL. USA.
+            <name>BF 2014</name>
+            <description>2014 International Conference on Business and Finance
+from Apr 10, 2014 - Apr 11, 2014
+in Singapore.
 
-CFP deadline: Feb 3, 2014
+CFP deadline: Jan 10, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33746&amp;copyownerid=27430</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34602&amp;copyownerid=5186</description>
             <Point id="geom_179">
-                <coordinates>-81.3792365,28.5383355,0.0</coordinates>
+                <coordinates>103.819836,1.352083,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_182">
-            <name>BDDAC 2014</name>
-            <description>Second International Symposium on Big Data and Data Analytics in Collaboration (BDDAC 2014)
-from May 19, 2014 - May 23, 2014
-in Minneapolis, USA.
+            <name>BEM 2014</name>
+            <description>2014 International Conference on Business, Economics and Management
+from Mar 30, 2014 - Mar 31, 2014
+in Hong Kong, China.
 
-CFP deadline: Dec 30, 2013
+CFP deadline: Jan 10, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33745&amp;copyownerid=19813</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34601&amp;copyownerid=5186</description>
             <Point id="geom_180">
-                <coordinates>-93.26667,44.983334,0.0</coordinates>
+                <coordinates>114.109497,22.396428,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_183">
-            <name>Intercloud 2014</name>
-            <description>IEEE Third International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability
-from Mar 11, 2014 - Mar 11, 2014
-in Boston.
+            <name>EPPH 2014</name>
+            <description>2014 International conference on Environmental Pollution and Public Health
+from Mar 30, 2014 - Mar 30, 2014
+in Hong Kong.
 
-CFP deadline: Dec 2, 2013
+CFP deadline: Jan 10, 2014
 
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33743&amp;copyownerid=19813</description>
+Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=34600&amp;copyownerid=5186</description>
             <Point id="geom_181">
-                <coordinates>-71.0597732,42.3584308,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_184">
-            <name>CLANG 2014</name>
-            <description>EACL-2014 Workshop on Computational Approaches to Causality in Language
-from Apr 26, 2014 - Apr 26, 2014
-in Gothenburg, Sweden.
-
-CFP deadline: Jan 23, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33735&amp;copyownerid=320</description>
-            <Point id="geom_182">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_185">
-            <name>MWE 2014</name>
-            <description>The 10th Workshop on Multiword Expressions
-from Apr 26, 2014 - Apr 27, 2014
-in Gothenburg, Sweden.
-
-CFP deadline: Jan 23, 2014
-
-Infos: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=33734&amp;copyownerid=320</description>
-            <Point id="geom_183">
-                <coordinates>11.97456,57.70887,0.0</coordinates>
+                <coordinates>114.109497,22.396428,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

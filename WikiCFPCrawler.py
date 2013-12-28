@@ -233,7 +233,7 @@ map.drawparallels(np.arange(-90, 90, 30))
 x,y = map(lon, lat)
 map.plot(x, y, 'ro', markersize=6)
 plt.title('WikiCFP Conferences 2014 Worldmap')
-plt.savefig('WikiCFP-Conferences-2014-Worldmap.png', bbox_inches='tight', dpi=150)
+plt.savefig('WikiCFP-Conferences-2014-Worldmap.png', bbox_inches='tight', dpi=300, transparent=True)
 #plt.show()
 plt.close()
 
@@ -259,7 +259,7 @@ m.plot(x, y, 'ro', markersize=6)
 
 
 plt.title("European WikiCFP Conferences 2014")
-plt.savefig('WikiCFP-Conferences-2014-Europe.png', bbox_inches='tight', dpi=150)
+plt.savefig('WikiCFP-Conferences-2014-Europe.png', bbox_inches='tight', dpi=300, transparent=True)
 
 #plt.show()
 plt.close()
@@ -287,7 +287,7 @@ mus.plot(x, y, 'ro', markersize=6)
 
 
 plt.title("US WikiCFP Conferences 2014")
-plt.savefig('WikiCFP-Conferences-2014-USA.png', bbox_inches='tight', dpi=150)
+plt.savefig('WikiCFP-Conferences-2014-USA.png', bbox_inches='tight', dpi=300, transparent=True)
 
 #plt.show()
 plt.close()
